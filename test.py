@@ -1,6 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox
 import csv
+import datetime
 
 data = []
 
@@ -24,7 +25,11 @@ def show_form_page():
     form_frame.pack()
 
 def save_to_csv():
-    fir_id = fir_id_entry.get()
+    with open('FIR1.csv', mode='a', newline='') as file:
+        reader = list(csv.reader(file))
+        last_row = reader[-1]
+        fir_id = last_row[0]
+        file.close()
     caller_name = caller_name_entry.get()
     caller_num = caller_num_entry.get()
     house_id = house_id_entry.get()
@@ -32,13 +37,14 @@ def save_to_csv():
     area = area_entry.get()
     code = code_entry.get()
     victim = victim_entry.get()
-    report_date_time = report_date_time_entry.get()
+    current_datetime = datetime.datetime.now()
+    report_date_time = current_datetime.strftime('%Y-%m-%d %H:%M:%S')
     medical_help = medical_help_entry.get()
 
     if '' in (fir_id, caller_name, caller_num, house_id, society, area, code, victim, report_date_time, medical_help):
         messagebox.showerror("Error", "Please fill in all fields.")
     else:
-        with open('FIR.csv', mode='a', newline='') as file:
+        with open('FIR1.csv', mode='a', newline='') as file:
             writer = csv.writer(file)
             writer.writerow([fir_id, caller_name, caller_num, house_id, society, area, code, victim, report_date_time, medical_help])
         messagebox.showinfo("Success", "Data saved successfully.")
@@ -78,16 +84,6 @@ form_frame = tk.Frame(root)
 
 form_label = tk.Label(form_frame, text="Form Page")
 form_label.pack(pady=10)
-
-fir_id_frame = tk.Frame(form_frame)
-fir_id_frame.pack()
-
-fir_id_label = tk.Label(fir_id_frame, text="FIR ID:")
-fir_id_label.pack(side="left")
-
-fir_id_entry = tk.Entry(fir_id_frame)
-fir_id_entry.pack(side="right", padx=10)
-fir_id_entry.focus_set()
 
 caller_name_frame = tk.Frame(form_frame)
 caller_name_frame.pack()
@@ -152,15 +148,6 @@ victim_label.pack(side="left")
 
 victim_entry = tk.Entry(victim_frame)
 victim_entry.pack(side="right", padx=10)
-
-report_date_time_frame = tk.Frame(form_frame)
-report_date_time_frame.pack()
-
-report_date_time_label = tk.Label(report_date_time_frame, text="Report Date Time:")
-report_date_time_label.pack(side="left")
-
-report_date_time_entry = tk.Entry(report_date_time_frame)
-report_date_time_entry.pack(side="right", padx=10)
 
 medical_help_frame = tk.Frame(form_frame)
 medical_help_frame.pack()
