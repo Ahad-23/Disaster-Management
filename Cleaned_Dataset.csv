@@ -1,0 +1,753 @@
+﻿Glide,Disaster Group,Disaster Subgroup,Disaster Type,Disaster Subtype,Event Name,Location,Origin,Dis Mag Value,Dis Mag Scale,Latitude,Longitude,Local Time,Start Year,Start Month,Start Day,End Year,End Month,End Day,Total Deaths,No Injured,No Affected,Total Affected,Insured Damages ('000 US$),Total Damages ('000 US$)
+,Natural,Climatological,Drought,Drought,,Bengal,,,Km2,,,,1900,,,1900,,,1250000,,,,,
+,Natural,Geophysical,Earthquake,Ground movement,,Kangra,,8,Richter,32.04,76.16,06:20,1905,4,4,1905,4,4,20000,,,,,25000
+,Natural,Biological,Epidemic,Bacterial disease,Bubonic,,,,Vaccinated,,,,1907,,,1907,,,1300000,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,,"Cuddalore, Pondicherry",,,Kph,,,,1916,11,21,1916,11,21,300,,,,,
+,Natural,Biological,Epidemic,Bacterial disease,Bubonic,,,,Vaccinated,,,,1920,,,1920,,,2000000,,,,,
+,Natural,Biological,Epidemic,Bacterial disease,Cholera,,,,Vaccinated,,,,1920,,,1920,,,500000,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,,Punjab province,,,Kph,,,,1924,9,23,1924,9,23,1242,,1000000,1000000,,
+,Natural,Biological,Epidemic,Bacterial disease,Cholera,,,,Vaccinated,,,,1924,,,1924,,,300000,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,,"Bezwada, Masulipatam",,,Kph,,,,1925,5,10,1925,5,10,80,,,,,
+,Natural,Hydrological,Flood,Riverine flood,,Bengal,,,Km2,,,,1926,7,19,1926,7,19,,,,,,
+,Natural,Biological,Epidemic,Viral disease,,,,,Vaccinated,,,,1926,,,1926,,,423000,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,,"Gujarat, Ahmedabad, Baroda",,,Kph,,,,1927,7,23,1927,7,23,56,10,40000,40010,,
+,Natural,Meteorological,Storm,Tropical cyclone,,Nellore,,,Kph,,,,1927,11,1,1927,11,1,629,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,,,,,Kph,,,,1935,,,1935,,,60000,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,,Guntur (Madras),,,Kph,,,,1936,10,28,1936,10,28,233,,,,,
+,Natural,Climatological,Drought,Drought,,"Calcutta, Bengal region",,,Km2,,,,1942,,,1942,,,1500000,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,,"Orissa, West Bengal",,,Kph,,,,1942,10,14,1942,10,14,40000,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,,Rajputana,,,Kph,,,,1943,7,24,1943,7,24,5000,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,,Assam,,,Kph,,,,1944,6,14,1944,6,14,304,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,,"Gujarat, Punjab",,,Kph,,,,1945,9,18,1945,9,18,,,,2000,,
+,Natural,Hydrological,Landslide,Landslide,,Assam,,,,,,,1948,9,18,1948,9,18,500,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,,"East & West Godavari districts, Masulipatnam",,,Kph,,,,1949,10,27,1949,10,27,1000,,,,,
+,Natural,Geophysical,Earthquake,Ground movement,,Assam province,,9,Richter,28.5,96.5,19:39,1950,8,15,1950,8,15,1500,,,,,20000
+,Natural,Hydrological,Flood,Riverine flood,,Saurashtra,,,Km2,,,,1950,7,11,1950,7,11,45,,25000,25000,,
+,Natural,Meteorological,Storm,Tropical cyclone,,"Tanjore, Tiruchi",,,Kph,,,,1952,11,26,1952,11,26,400,,1000000,1000000,,
+,Natural,Meteorological,Extreme temperature ,Heat wave,,,,,Â°C,,,,1953,6,,1953,6,,400,,,,,
+,Natural,Hydrological,Landslide,Landslide,,,,,,,,,1954,2,,1954,2,,30,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,,Punjab,,,Kph,,,,1955,9,28,1955,9,28,1500,,,375000,,
+,Natural,Meteorological,Storm,Tropical cyclone,,Tanjore,,,Kph,,,,1955,11,28,1955,11,28,500,,,,,
+,Natural,Geophysical,Earthquake,Ground movement,,"Anjar, Bhuj, Gandhidham, Kandla",,6,Richter,23,70,21:02,1956,7,21,1956,7,21,113,219,,219,,
+,Natural,Hydrological,Landslide,Landslide,,,,,,,,,1956,10,,1956,10,,27,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,,"Parganas, Midnapore (West Bengal)",,,Kph,,,,1956,5,29,1956,5,29,,,1000000,1000000,,
+,Natural,Hydrological,Landslide,Landslide,,,,,,,,,1958,6,,1958,6,,52,,,,,
+,Natural,Meteorological,Extreme temperature ,Heat wave,,,,,Â°C,,,,1958,5,,1958,5,,651,,,,,
+,Natural,Meteorological,Extreme temperature ,Cold wave,,,,,Â°C,,,,1961,12,,1961,12,,400,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,,,,,Kph,,,,1963,4,,1963,4,,112,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,,Rameswaram,,,Kph,,,,1964,12,17,1964,12,17,500,,,,,
+,Natural,Meteorological,Extreme temperature ,Heat wave,,,,,Â°C,,,,1965,6,,1965,6,,100,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,,Madras state,,,Kph,,,,1966,11,3,1966,11,3,18,,150000,150000,,4200
+,Natural,Geophysical,Earthquake,Ground movement,,"Maharashtra, Koynana",,7,Richter,17.412,73.885,04:21,1967,12,11,1967,12,11,177,2272,50000,52272,,400
+,Natural,Meteorological,Storm,Tropical cyclone,,Orissa,,,Kph,,,,1967,10,8,1967,10,8,1000,,,,,
+,Natural,Biological,Epidemic,Viral disease,,,,,Vaccinated,,,,1967,1,1,1967,1,1,3029,,13576,13576,,
+,Natural,Hydrological,Flood,Flash flood,,"(1) Rajasthan, Gujarat - (2) North-East, West Bengal, Assam",,,Km2,,,,1968,7,,1968,7,,4892,,7500000,7500000,,94200
+,Natural,Hydrological,Landslide,Landslide,,"Bihar, Bengal",,,,,,,1968,10,1,1968,10,1,1000,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,,"Ramanathapurum, Thanjavur",,,Kph,,,,1968,12,4,1968,12,4,7,,15000,15000,,
+,Natural,Meteorological,Storm,Tropical cyclone,,"Guntur, Krishna, Godavari (Andhra Pradesh)",,,Kph,,,,1969,5,17,1969,5,17,600,,260000,260000,,8330
+,Natural,Meteorological,Storm,Tropical cyclone,,Andhra Pradesh,,,Kph,,,,1969,11,4,1969,11,4,200,,,,,
+,Natural,Geophysical,Earthquake,Ground movement,,Broach,,5,Richter,21.7,73,07:22,1970,3,23,1970,3,23,26,200,,200,,
+,Natural,Meteorological,Storm,Tropical cyclone,,"East coast, Orissa state",,,Kph,,,,1971,10,27,1971,10,27,9658,,4900000,6900000,,30000
+,Natural,Meteorological,Storm,Tropical cyclone,,"Bihar, West Bengal",,,Kph,,,,1971,9,27,1971,9,27,60,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,,"Andhra Pradesh, Orissa",,,Kph,,,,1972,9,10,1972,9,10,100,,4500000,4500000,,
+,Natural,Meteorological,Storm,Tropical cyclone,,Madras City,,,Kph,,,,1972,12,1,1972,12,1,80,,30000,30000,,
+,Natural,Meteorological,Extreme temperature ,Cold wave,,"Uttar Pradesh, Bihar",,,Â°C,,,,1973,1,5,1973,1,5,115,,,,,
+,Natural,Meteorological,Extreme temperature ,Cold wave,,"Bihar, Delhi",,,Â°C,,,,1973,12,23,1973,12,23,146,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,,"West Bengal, Madya Pradesh, Gujarat states",,,Kph,,,,1974,8,15,1974,8,15,20,100,,100,,
+,Natural,Meteorological,Storm,Tropical cyclone,,Midnapore,,20,Kph,,,,1974,5,29,1974,5,29,,,25000,25000,,
+,Natural,Geophysical,Earthquake,Ground movement,,"Kinnaur district, Kashmir; Himachal Pradesh",,7,Richter,32.455,78.43,13:32,1975,1,19,1975,1,19,47,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,,Madras city,,,Kph,,,,1975,11,24,1975,11,24,,,,2000,,
+,Natural,Meteorological,Storm,Tropical cyclone,, Maharashtra (Coast),,,Kph,,,,1975,5,29,1975,5,29,,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,,"Midnapore, Parganas districts (West Bengal), Balasore district (Orissa)",,,Kph,,,,1976,9,8,1976,9,8,40,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,,Madras/Nellore (Andhra Pradesh),,,Kph,,,,1976,11,22,1976,11,22,95,,300000,300000,,260000
+,Natural,Meteorological,Storm,Tropical cyclone,,"Gujarat, Maharastra",,,Kph,,,,1976,5,29,1976,5,29,87,,250000,250000,,3378
+,Natural,Meteorological,Storm,Tropical cyclone,,"Krishna District, near Masulipatnam (Andhra Pradesh)",,,Kph,,,,1976,11,3,1976,11,3,18,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,,Between Nellore and Kavali (Andhra Pradesh),,,Kph,,,,1976,11,15,1976,11,15,30,,50000,50000,,3378
+,Natural,Meteorological,Storm,Tropical cyclone,,"Neil & Havelock Isl. (Little Andaman, South Andaman Sea areas)",,,Kph,,,,1976,12,29,1976,12,29,,,,,,
+,Natural,Hydrological,Flood,Riverine flood,,Ganges region,,,Km2,,,,1977,8,,1977,8,,500,,1000000,1000000,,
+,Natural,Meteorological,Storm,Tropical cyclone,,"Tamil Nadu, Andhra Pradesh, Kerala",,,Kph,,,,1977,11,12,1977,11,12,14204,,9037400,14469800,,498535
+,Natural,Meteorological,Storm,Tropical cyclone,,"North of Nellore district, South of Prakasam district (Andhra Pradesh)",,,Kph,,,,1977,10,27,1977,10,27,2,,10000,10000,,
+,Natural,Biological,Epidemic,Bacterial disease,Cholera,,,,Vaccinated,,,,1977,1,1,1977,1,1,,,9091,9091,,
+,Natural,Meteorological,Storm,Convective storm,,New Delhi,,,Kph,,,,1978,3,17,1978,3,17,26,700,,700,,
+,Natural,Meteorological,Storm,Convective storm,,Orissa,,,Kph,,,,1978,4,16,1978,4,16,500,400,1000,1400,,
+,Natural,Meteorological,Storm,Convective storm,,West Bengal,,,Kph,,,,1978,4,16,1978,4,16,100,,100,100,,
+,Natural,Meteorological,Extreme temperature ,Heat wave,,,,,Â°C,,,,1978,5,,1978,5,,150,,,,,
+,Natural,Biological,Epidemic,Viral disease,Encephalitis,Tamil Nadu,,,Vaccinated,,,,1978,1,1,1978,1,1,45,,,,,
+,Natural,Biological,Epidemic,Viral disease,,Uttar Pradesh,,,Vaccinated,,,,1978,6,,1978,6,,48,,1000,1000,,
+,Natural,Hydrological,Flood,,,"Godavari, Vizagapatnam",,,Km2,,,,1928,10,19,1928,10,19,36,,,2000,,
+,Natural,Meteorological,Storm,,,"Madras, Negapatam",,,Kph,,,,1935,11,13,1935,11,13,100,,,,,
+,Natural,Meteorological,Storm,,,Madras,,,Kph,,,,1943,10,3,1943,10,3,,,30000,30000,,
+,Natural,Meteorological,Storm,,,West,,,Kph,,,,1950,9,12,1950,9,12,90,,,,,
+,Natural,Hydrological,Flood,,,,,,Km2,,,,1950,6,,1950,6,,100,,,,,
+,Natural,Meteorological,Storm,,,,,,Kph,,,,1952,9,,1952,9,,350,,,,,
+,Natural,Hydrological,Flood,,,,,,Km2,,,,1953,6,,1953,6,,80,,,,,
+,Natural,Meteorological,Storm,,,,,,Kph,,,,1955,12,,1955,12,,120,,,,,
+,Natural,Hydrological,Flood,,,"Gujarat, Saurashtra, Kutch",,,Km2,,,,1956,8,1,1956,8,1,,,,2000,,
+,Natural,Hydrological,Flood,,,"Bihar, Uttar Pradesh",,,Km2,,,,1956,9,9,1956,9,9,100,,,75000,,
+,Natural,Hydrological,Flood,,,,,,Km2,,,,1956,10,,1956,10,,50,,,,,
+,Natural,Hydrological,Flood,,,"Madya Pradesh, Uttar Pradesh",,,Km2,,,,1957,9,9,1957,9,9,42,,10000,10000,,
+,Natural,Hydrological,Flood,,,,,,Km2,,,,1957,9,,1957,9,,92,,,,,
+,Natural,Hydrological,Flood,,,,,,Km2,,,,1957,11,,1957,11,,53,,,,,
+,Natural,Meteorological,Storm,,,Vishakhapatam,,,Kph,,,,1958,10,16,1958,10,16,,,20000,20000,,
+,Natural,Hydrological,Flood,,,Madras city,,,Km2,,,,1958,11,15,1958,11,15,5,,5000,5000,,
+,Natural,Hydrological,Flood,,,Kutch,,,Km2,,,,1959,7,4,1959,7,4,17,,13000,13000,,
+,Natural,Hydrological,Flood,,,,,,Km2,,,,1959,7,,1959,7,,104,,,,,
+,Natural,Hydrological,Flood,,,,,,Km2,,,,1959,9,,1959,9,,500,,,,,
+,Natural,Hydrological,Flood,,,"Maduri, Madras City",,,Km2,,,,1960,11,10,1960,11,10,5,,160000,160000,,
+,Natural,Hydrological,Flood,,,,,,Km2,,,,1960,7,,1960,7,,30,,,,,
+,Natural,Hydrological,Flood,,,,,,Km2,,,,1960,8,,1960,8,,47,,,,,
+,Natural,Hydrological,Flood,,,,,,Km2,,,,1960,9,,1960,9,,155,,,,,
+,Natural,Hydrological,Flood,,,North,,,Km2,,,,1961,7,,1961,7,,2000,,,,,
+,Natural,Hydrological,Flood,,,"Central, West India",,,Km2,,,,1961,9,6,1961,9,6,,,,2000,,
+,Natural,Hydrological,Flood,,,Uttar Pradesh,,,Km2,,,,1961,10,9,1961,10,9,57,,,,,
+,Natural,Hydrological,Flood,,,,,,Km2,,,,1961,10,,1961,10,,1000,,,,,
+,Natural,Meteorological,Storm,,,"Punjab, Delhi, M.P.",,,Kph,,,,1962,9,16,1962,9,16,,,40000,40000,,
+,Natural,Hydrological,Flood,,,,,,Km2,,,,1962,8,,1962,8,,100,,,,,
+,Natural,Hydrological,Flood,,,,,,Km2,,,,1962,9,,1962,9,,73,,,,,
+,Natural,Meteorological,Storm,,,"Orissa, Uttar Pradesh, Punjab",,,Kph,,,,1963,9,8,1963,9,8,200,,5000000,5000000,,
+,Natural,Hydrological,Flood,,,,,,Km2,,,,1963,7,,1963,7,,200,,,,,
+,Natural,Climatological,Drought,Drought,,Mysore,,,Km2,,,,1964,8,,1964,,,,,166000,166000,,
+,Natural,Climatological,Drought,Drought,,"Rajasthan, center",,,Km2,,,,1964,7,,1964,,,,,500000,500000,,
+,Natural,Hydrological,Flood,,,"Assam, Bihar, Punjab",,,Km2,,,,1964,7,,1964,7,,145,,752210,752210,,
+,Natural,Hydrological,Flood,,,Andhra Pradesh,,,Km2,,,,1964,10,,1964,10,,,,18400,18400,,500
+,Natural,Hydrological,Flood,,,,,,Km2,,,,1964,9,,1964,9,,51,,,,,
+,Natural,Hydrological,Flood,,,,,,Km2,,,,1964,9,,1964,9,,36,,,,,
+,Natural,Climatological,Drought,Drought,,Nationwide except south,,,Km2,,,,1965,,,1967,,,1500000,,100000000,100000000,,100000
+,Natural,Hydrological,Flood,,,"Manipur, Assam",,,Km2,,,,1966,6,,1966,6,,47,,900000,900000,,1400
+,Natural,Hydrological,Flood,,,"North, Central",,,Km2,,,,1967,9,5,1967,9,5,300,,1000000,1000000,,
+,Natural,Hydrological,Flood,,,Assam,,,Km2,,,,1968,6,12,1968,6,12,,,1000000,1000000,,
+,Natural,Hydrological,Flood,,,,,,Km2,,,,1968,8,,1968,8,,1000,,,,,
+,Natural,Hydrological,Flood,,,,,,Km2,,,,1968,10,,1968,10,,560,,,,,
+,Natural,Meteorological,Storm,,,Kannaman,,,Kph,,,,1969,7,22,1969,7,22,15,,92,92,,
+,Natural,Meteorological,Storm,,,Madras City,,,Kph,,,,1969,10,21,1969,10,21,,,20000,20000,,
+,Natural,Hydrological,Flood,,,"North-East, Western, North",,,Km2,,,,1970,7,,1970,7,,627,1000,10000000,10351000,,101200
+,Natural,Meteorological,Storm,,,Madras city (Tamil Nadu),,,Kph,,,,1970,11,19,1970,11,19,,,,2000,,
+,Natural,Hydrological,Flood,,,"Gujarat, Orissa states",,,Km2,,,,1970,9,2,1970,9,2,400,,,,,
+,Natural,Hydrological,Flood,,,North,,,Km2,,,,1971,6,,1971,6,,1023,,,,,530000
+,Natural,Hydrological,Flood,,,Uttar Pradesh,,,Km2,,,,1971,9,9,1971,9,9,300,,35000,35000,,
+,Natural,Hydrological,Flood,,,"Brahmaputra, Dhemaji, North Lakhimpur, Jorhat, Tezpur sub-divisions",,2600,Km2,,,,1971,6,,1971,6,,,,130000,130000,,
+,Natural,Climatological,Drought,Drought,,Central,,,Km2,,,,1972,,,1973,,,,,200000000,200000000,,100000
+,Natural,Meteorological,Storm,,,"Srinagar, Kashmir",,,Kph,,,,1972,10,21,1972,10,21,50,,75,75,,
+,Natural,Hydrological,Flood,,,,,,Km2,,,,1974,6,,1974,6,,,,,,,
+,Natural,Hydrological,Flood,,,"Tinsukia, Dhemaji, Nowgong, Majuli, Jorhat, Dhubri",,,Km2,,,,1974,7,2,1974,7,2,260,,,,,
+,Natural,Hydrological,Flood,,,"Northwest, Bihar",,,Km2,,,,1975,7,,1975,7,,350,,27000000,34000000,,714259
+,Natural,Meteorological,Storm,,,Eastern,,,Kph,,,,1975,8,,1975,8,,450,,,,,200000
+,Natural,Meteorological,Storm,,,Bulandshar (Uttar Pradesh),,,Kph,,,,1975,9,,1975,9,,30,,,,,
+,Natural,Meteorological,Storm,,,Gujarat,,,Kph,,,,1975,10,22,1975,10,22,21,,,,,
+,Natural,Hydrological,Flood,,,Tamil Nadu,,,Km2,,,,1977,10,,1977,10,,60,,45000,45000,,
+,Natural,Hydrological,Flood,,,"North, Northeast",,,Km2,,,,1978,7,,1978,7,,3800,,32000000,32000000,,165000
+,Natural,Hydrological,Landslide,Landslide,, Northeastern,,,,,,,1978,11,5,1978,11,5,64,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,,"Tamil Nadu, Kerala",,,Kph,,,,1978,11,3,1978,11,3,170,,,,,
+,Natural,Biological,Epidemic,Bacterial disease,Cholera,West Bengal,,,Vaccinated,,,,1978,10,,1978,10,,113,,,,,
+,Natural,Biological,Epidemic,Viral disease,Encephalitis,Uttar Pradesh,,,Vaccinated,,,,1978,10,,1978,10,,2000,,,,,
+,Natural,Hydrological,Flood,,,West Bengal,,,Km2,,,,1978,9,,1978,9,,810,,,,,1000
+,Natural,Meteorological,Storm,,,,,,Kph,,,,1978,11,25,1978,11,25,15,,1000,1000,,
+,Natural,Hydrological,Landslide,Landslide,,"Lahaul, Pangi",,,,,,,1979,3,,1979,3,,230,,5000,5000,,
+,Natural,Hydrological,Landslide,Landslide,,Uttar Pradesh,,,,,,,1979,8,19,1979,8,19,42,12,100,112,,
+,Natural,Meteorological,Storm,Tropical cyclone,,Andhra Pradesh,,,Kph,,,,1979,5,12,1979,5,12,594,,1605772,1605772,,12800
+,Natural,Meteorological,Extreme temperature ,Heat wave,,Bihar,,,Â°C,,,,1979,5,,1979,5,,300,,,,,
+,Natural,Meteorological,Extreme temperature ,Heat wave,,Rajasthan,,,Â°C,,,,1979,7,,1979,7,,100,,,,,
+,Natural,Biological,Epidemic,Bacterial disease,Cholera,Bihar,,,Vaccinated,,,,1979,8,13,1979,8,13,215,,,,,
+,Natural,Climatological,Drought,Drought,,,,,Km2,,,,1979,,,1979,,,,,10000000,10000000,,200000
+,Natural,Hydrological,Flood,,,"North West, North, North East",,,Km2,,,,1979,7,,1979,7,,100,,1000000,1010000,,100000
+,Natural,Hydrological,Flood,,,Assam,,,Km2,,,,1979,10,,1979,10,,13,,1000000,1000000,,
+,Natural,Hydrological,Flood,,,Tamil Nadu,,,Km2,,,,1979,11,,1979,11,,140,,,,,
+,Natural,Hydrological,Flood,,,"Uttar Pradesh, Bihar, West Bengal",,,Km2,,,,1979,8,25,1979,8,25,,,26000000,26000000,,
+,Natural,Meteorological,Storm,Convective storm,,Uttar Pradesh,,,Kph,,,,1980,5,9,1980,5,9,125,,,,,
+,Natural,Geophysical,Earthquake,Ground movement,,Jammu (Kashmir),,6,Richter,32.913,75.633,03:06,1980,8,24,1980,8,24,13,40,,40,,
+,Natural,Hydrological,Landslide,Landslide,,Uttar Pradesh,,,,,,,1980,6,25,1980,6,25,150,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,,"Srikakulam, Visakhapatnam, East & West Godavari districts (Andhra Pradesh)",,,Kph,,,,1980,10,16,1980,10,16,28,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,,Tamil Nadu,,,Kph,,,,1980,12,3,1980,12,3,,,,,,
+,Natural,Meteorological,Extreme temperature ,Cold wave,,Bihar,,,Â°C,,,,1980,1,,1980,1,,79,,,,,
+,Natural,Meteorological,Extreme temperature ,Heat wave,,"Bihar, Uttar Pradesh states",,40,Â°C,,,,1980,4,29,1980,4,29,50,,,,,
+,Natural,Biological,Epidemic,Bacterial disease,Cholera,Madhya Pradesh,,,Vaccinated,,,,1980,7,,1980,7,,390,,,,,
+,Natural,Biological,Epidemic,Bacterial disease,Cholera,Uttar Pradesh,,,Vaccinated,,,,1980,8,21,1980,8,21,250,,,,,
+,Natural,Biological,Epidemic,Viral disease,Encephalitis,Northern,,,Vaccinated,,,,1980,9,,1980,9,,400,,,,,
+,Natural,Hydrological,Flood,,,Assam,,,Km2,,,,1980,7,,1980,7,,,,50000,50000,,
+,Natural,Hydrological,Flood,,,Gujarat,,,Km2,,,,1980,7,,1980,7,,11,,1000,1000,,
+,Natural,Hydrological,Flood,,,"Uttar Pradesh, Bihar, Gujarat, Kerala, Haryana",,,Km2,,,,1980,8,,1980,8,,1600,23,30000000,30000023,,320000
+,Natural,Hydrological,Flood,,,Orissa,,,Km2,,,,1980,9,,1980,9,,200,,2000000,2000000,,
+,Natural,Hydrological,Flood,,,,,,Km2,,,,1980,7,,1980,7,,600,,,,,
+,Natural,Meteorological,Storm,Convective storm,,Orissa,,,Kph,,,,1981,4,17,1981,4,17,120,,10000,10000,,
+,Natural,Meteorological,Storm,Tropical cyclone,,"Orissa, West Bengal",,,Kph,,,,1981,12,10,1981,12,10,200,,20000,20000,,
+,Natural,Meteorological,Storm,Tropical cyclone,,"Puri, Ganjam, Koraput, Kalhandi, Phulbani, Sundergarh districts (Orissa state)",,,Kph,,,,1981,8,7,1981,8,7,15,,101700,101700,,
+,Natural,Meteorological,Storm,Tropical cyclone,,"Orissa, West Bengal, Bihar Plateau, Andhra Pradesh, Telangana, East Madhya Pradesh",,,Kph,,,,1981,9,24,1981,9,24,,,,,,
+,Natural,Meteorological,Extreme temperature ,Cold wave,,Northern,,,Â°C,,,,1981,1,,1981,1,,300,,,,,
+,Natural,Hydrological,Flood,,,,,,Km2,,,,1981,7,4,1981,7,4,553,,16000000,16000000,,250000
+,Natural,Meteorological,Storm,,,Gujarat,,,Kph,,,,1981,11,1,1981,11,1,470,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,," Gujarat, Maharashtra",,,Kph,,,,1982,11,9,1982,11,9,500,,5000000,5000000,,625420
+,Natural,Meteorological,Storm,Tropical cyclone,,Orissa state,,220,Kph,,,,1982,6,3,1982,6,3,244,493,300000,300493,,120000
+,Natural,Meteorological,Extreme temperature ,Cold wave,,Northern,,,Â°C,,,,1982,12,,1982,12,,400,,,,,
+,Natural,Biological,Epidemic,Viral disease,Encephalitis,West Bengal,,,Vaccinated,,,,1982,10,,1982,10,,118,,,,,
+,Natural,Climatological,Drought,Drought,,"districts of Bhiwani, Gurgaon, Hisar, Mahendargarh, and Rohtak, Kerala, Tami Nadu, Rajasthan",,,Km2,,,,1982,6,,1983,,,,,100000000,100000000,,
+,Natural,Hydrological,Flood,,,Northeast,,,Km2,,,,1982,8,,1982,8,,932,,33500000,33500000,,700000
+,Natural,Hydrological,Flood,,,North-East region,,,Km2,,,,1982,6,,1982,6,,,,,,,
+,Natural,Hydrological,Landslide,Landslide,,Sikkim,,,,,,,1983,9,,1983,9,,67,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,,West Bengal,,,Kph,,,,1983,4,,1983,4,,76,1500,6000,7500,,
+,Natural,Meteorological,Storm,Tropical cyclone,,Saurashtra coast (N-W. Gujarat),,,Kph,,,,1983,6,19,1983,6,19,551,,800000,800000,,56000
+,Natural,Meteorological,Storm,Tropical cyclone,,"Andhra Pradesh, Orissa",,,Kph,,,,1983,10,3,1983,10,3,100,,700000,714000,,510000
+,Natural,Meteorological,Storm,,,West Bengal,,,Kph,,,,1983,4,13,1983,4,13,24,300,35000,35300,,
+,Natural,Meteorological,Storm,,,"Himachal Pradesh, Punjab",,,Kph,,,,1983,5,,1983,5,,31,,,,,25000
+,Natural,Hydrological,Flood,,,"Upper Assama, Central Sikkim",,,Km2,,,,1983,7,,1983,7,,197,,250000,250000,,
+,Natural,Hydrological,Flood,,,Central - Western,,,Km2,,,,1983,8,,1983,8,,130,,,,,
+,Natural,Hydrological,Flood,,,Tamil Nadu,,,Km2,,,,1983,12,,1983,12,,58,,,,,
+,Natural,Hydrological,Flood,,,,,,Km2,,,,1983,9,,1983,9,,400,,,,,
+,Natural,Geophysical,Earthquake,Ground movement,,Cachar district (Assam),,6,Richter,24.40 N,92.34 E,,1984,12,31,1984,12,31,20,100,800,10900,,
+,Natural,Hydrological,Flood,Flash flood,,Ladakh area,,,Km2,,,,1984,8,16,1984,8,16,14,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,,"Tamil Nadu state + Chittoor, Nellore districts (Andhra Pradesh state)",,,Kph,,,,1984,11,14,1984,11,14,524,,1300000,1300000,,35000
+,Natural,Meteorological,Storm,Tropical cyclone,,"East Uttar Pradesh + Cuttack, Balasore districts (Orissa state) + Midnapore district (West Bengal)",,,Kph,,,,1984,10,13,1984,10,13,,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,,"Ravalaseema, Kerala, Tamil Nadu",,,Kph,,,,1984,11,30,1984,11,30,,,35000,35000,,
+,Natural,Meteorological,Extreme temperature ,Cold wave,,Northeast,,,Â°C,,,,1984,12,,1984,12,,290,,,,,
+,Natural,Climatological,Wildfire,Forest fire,,Jammu region,,,Km2,,,,1984,5,,1984,5,,,,,,,2000
+,Natural,Biological,Epidemic,Bacterial disease,Cholera, Uttar Pradesh,,,Vaccinated,,,,1984,6,,1984,6,,60,,,,,
+,Natural,Biological,Epidemic,Parasitic disease,Dysentery,W Bengal State,,,Vaccinated,,,,1984,5,,1984,5,,3290,,27000,27000,,
+,Natural,Biological,Epidemic,Viral disease,,"Gujarat, Karnataka States",,,Vaccinated,,,,1984,5,,1984,5,,1160,,,,,
+,Natural,Hydrological,Flood,,,North-East states,,,Km2,,,,1984,5,,1984,5,,245,,16000000,16000000,,90000
+,Natural,Hydrological,Flood,,,"West Bengal, Uttar Pradesh, Assam, Bihar",,,Km2,,,,1984,6,25,1984,6,25,200,,3000000,3000000,,
+,Natural,Hydrological,Flood,,,"W Bengal, Uttar Pradesh & Orissa",,,Km2,,,,1984,8,,1984,8,,245,,,,,
+,Natural,Hydrological,Flood,,,North-East region,,,Km2,,,,1984,9,,1984,9,,36,,,,,
+,Natural,Hydrological,Flood,Riverine flood,,"Uttar Pradesh, Bihar",,90000,Km2,,,,1985,9,,1985,9,,557,,152000,152000,,308000
+,Natural,Hydrological,Flood,Riverine flood,,"Kerala, Assam, Bombay, Karnataka, Goa states",,254240,Km2,,,,1985,6,23,1985,6,23,95,,25000,25000,,
+,Natural,Meteorological,Storm,Tropical cyclone,,Andhra Pradesh,,,Kph,,,,1985,10,10,1985,10,10,78,,5000,5000,,
+,Natural,Meteorological,Extreme temperature ,Cold wave,,"Bihar, Uttar Pradesh, Jammu and Kashmir, Gujarat",,,Â°C,,,,1985,12,26,1985,12,26,225,,,,,144000
+,Natural,Meteorological,Extreme temperature ,Heat wave,,Bihar,,46,Â°C,,,,1985,6,6,1985,6,6,103,,,,,
+,Natural,Biological,Epidemic,Bacterial disease,,"Delhi, Haryana, Uttar Pradesh, Rajasthan, Sikkim, Gujarat, Jammu and Kashmir, West Bengal, Chandigarh, Kerala, Orissa",,,Vaccinated,,,,1985,3,,1985,3,,799,,6133,6133,,
+,Natural,Biological,Epidemic,Viral disease,,Western,,,Vaccinated,,,,1985,1,1,1985,1,1,55,,456,456,,
+,Natural,Biological,Epidemic,Viral disease,Encaphalitis,Eastern Uttar Pradesh,,,Vaccinated,,,,1985,10,,1985,10,,1000,,,,,
+,Natural,Hydrological,Flood,,,Punjab (Western),,117440,Km2,,,,1985,6,,1985,6,,133,,,25000,,
+,Natural,Hydrological,Flood,,,"Uttar Pradesh, West Bengal, Punjab (North, North-West, East India)",,404,Km2,,,,1985,6,,1985,6,,741,,10200000,10225000,,500000
+,Natural,Hydrological,Flood,,,Tamil Nadu,,,Km2,,,,1985,11,12,1985,11,12,130,,500000,900000,,
+,Natural,Meteorological,Storm,,Orilla,,,,Kph,,,,1985,10,17,1985,10,17,100,,100000,100000,,
+,Natural,Meteorological,Storm,Convective storm,,Cashmire,,,Kph,,,,1986,11,16,1986,11,16,65,,,,,
+,Natural,Geophysical,Earthquake,Ground movement,,Dharmsala,,5,Richter,32.128 N,76.374 E,,1986,4,26,1986,4,26,6,30,,30,,5000
+,Natural,Hydrological,Flood,Riverine flood,,Andhra Pradesh,,2400,Km2,,,,1986,8,,1986,8,,187,,245000,245000,,100000
+,Natural,Hydrological,Landslide,Avalanche,,Jammu and Kashmir State,,,,,,,1986,11,16,1986,11,16,65,,200,200,,
+,Natural,Hydrological,Landslide,Landslide,,"Uttar Pradesh, Himachal Pradesh",,,,,,,1986,7,,1986,7,,88,,,2500000,,
+,Natural,Meteorological,Storm,Tropical cyclone,,Rajasthan state,,,Kph,,,,1986,5,16,1986,5,16,11,100,,100,,
+,Natural,Meteorological,Storm,Tropical cyclone,,"Calcutta, Midnapore district (West bengal)",,,Kph,,,,1986,9,25,1986,9,25,13,,3100000,3300000,,272943
+,Natural,Biological,Epidemic,Bacterial disease,,New Delhi,,,Vaccinated,,,,1986,1,1,1986,1,1,55,,600,600,,
+,Natural,Biological,Epidemic,Viral disease,,South Bihar,,,Vaccinated,,,,1986,6,,1986,6,,210,,11000,11000,,
+,Natural,Meteorological,Storm,,,Uttar Pradesh,,,Kph,,,,1986,7,31,1986,7,31,71,,,,,
+,Natural,Hydrological,Flood,,,,,,Km2,,,,1986,10,10,1986,10,10,50,,,,,276100
+,Natural,Hydrological,Flood,,,,,,Km2,,,,1986,,,1986,,,14,,,150000,,
+,Natural,Meteorological,Storm,,,,,,Kph,,,,1986,,,1986,,,230,,,,,
+,Natural,Hydrological,Flood,Riverine flood,,"Assam, Bihar, West Bengal",,40000,Km2,,,,1987,8,,1987,8,,1200,,18000000,18000000,,545000
+,Natural,Meteorological,Storm,Tropical cyclone,,"Andhra Pradesh, Tami Nadu",,800,Kph,,,,1987,11,2,1987,11,2,38,,50000,50000,,
+,Natural,Meteorological,Storm,Tropical cyclone,,"Guntur, Prakasam district (Andhra Pradesh)",,,Kph,,,,1987,11,14,1987,11,14,25,,30000,30000,,
+,Natural,Meteorological,Extreme temperature ,Heat wave,, Rajasthan,,,Â°C,,,,1987,6,,1987,6,,100,,,,,
+,Natural,Biological,Epidemic,Viral disease,,Kashmir,,,Vaccinated,,,,1987,1,19,1987,1,19,90,,,,,
+,Natural,Climatological,Drought,Drought,,"Gujarat, Rajasthan, Orissa, Madhya Pradesh, Andhra Pradesh, Maharashtra",,,Km2,,,,1987,5,,1987,8,,300,,300000000,300000000,,
+,Natural,Meteorological,Storm,,,"Bihar, Uttar Pradesh",,,Kph,,,,1987,5,,1987,5,,63,,,,,
+,Natural,Meteorological,Storm,,,Bihar,,,Kph,,,,1987,10,18,1987,10,18,40,,,,,
+,Natural,Hydrological,Flood,,, Cachemire,,,Km2,,,,1987,5,,1987,5,,25,,,,,
+,Natural,Hydrological,Flood,,, Andhra Pradesh,,,Km2,,,,1987,7,9,1987,7,9,30,,,,,
+,Natural,Hydrological,Flood,,,Uttar Pradesh,,3000,Km2,,,,1987,9,18,1987,9,18,59,,300000,300000,,
+,Natural,Geophysical,Earthquake,Ground movement,,"Dharbhanga, Madhubani, Saharsa, Munger, Khagana, Bihar Sharie (Bihar State)",,7,Richter,26.755,616,04:39,1988,8,21,1988,8,21,382,3766,20000000,20003766,,71500
+,Natural,Hydrological,Flood,Riverine flood,,"Bihar, West Bengal, Assam",,,Km2,,,,1988,6,,1988,6,,250,,16500000,16500000,,929200
+,Natural,Hydrological,Flood,Riverine flood,,"Punjab, Himachal Pradesh, Haryana, Jamuu and Kashmir, Delhi",,,Km2,,,,1988,9,22,1988,10,9,1000,,221000,221000,,18000
+,Natural,Hydrological,Landslide,Avalanche,,"Jammu and Kashmir, Ladakh",,,,,,,1988,3,15,1988,3,15,250,,,,,
+,Natural,Hydrological,Landslide,Landslide,,"Uttar Pradesh, Haryana, Himachal Pradesh, Pendjab states",,,,,,,1988,7,,1988,7,,255,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,04B,West Bengal,,,Kph,,,,1988,11,29,1988,11,29,74,,1900000,1900000,,13000
+,Natural,Meteorological,Extreme temperature ,Heat wave,,"Northern, Western, Central India",,,Â°C,,,,1988,5,,1988,5,,418,200,,200,,
+,Natural,Meteorological,Extreme temperature ,Heat wave,,Rajasthan,,,Â°C,,,,1988,5,,1988,5,,32,,,,,
+,Natural,Biological,Epidemic,Bacterial disease,Cholera,Delhi,,,Vaccinated,,,,1988,6,,1988,6,,466,,,,,
+,Natural,Biological,Epidemic,Bacterial disease,Cholera,Gujarat state,,,Vaccinated,,,,1988,7,,1988,7,,445,,,,,
+,Natural,Biological,Epidemic,Viral disease,Encaphalitis,Along Nepal/Uttar Pradesh border,,,Vaccinated,,,,1988,11,,1988,11,,3000,,,,,
+,Natural,Hydrological,Flood,,,"Uttar Pradesh, Assam, Bihar, West Bengal, Arunachal Pradesh",,,Km2,,,,1988,8,,1988,8,,850,,5600000,5600000,,
+,Natural,Hydrological,Flood,Riverine flood,,"Maharashtra, Andhra Pradesh, Gujarat",Monsoon rain,,Km2,,,,1989,7,28,1989,7,28,1591,,,,,
+,Natural,Geophysical,Mass movement (dry),Landslide,,North India,,,,,,,1989,8,5,1989,8,5,45,,,,,
+,Natural,Hydrological,Flood,Riverine flood,,"Assam, Arunachal Pradesh, Manipur, Mizorem",,,Km2,,,,1989,8,,1989,8,,18,,,2000,,
+,Natural,Hydrological,Landslide,Landslide,,,,,,,,,1989,6,7,1989,6,7,41,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,,"Coastal Orissa, West Bengal",,,Kph,,,,1989,5,26,1989,5,26,43,,3700000,3700000,,
+,Natural,Meteorological,Storm,Tropical cyclone,,Southern India,,,Kph,,,,1989,11,9,1989,11,9,50,,,,,
+,Natural,Meteorological,Extreme temperature ,Cold wave,,Bihar,,,Â°C,,,,1989,12,,1989,12,,109,,,,,
+,Natural,Meteorological,Extreme temperature ,Cold wave,,,,,Â°C,,,,1989,1,,1989,1,,18,,,,,
+,Natural,Biological,Epidemic,Viral disease,Dengue,,,,Vaccinated,,,,1989,,,1989,,,200,,,,,
+,Natural,Hydrological,Flood,Riverine flood,,Tami Nadu state,Monsoonal rain,,Km2,,,,1990,10,24,1990,10,28,60,,,,,
+,Natural,Meteorological,Storm,Convective storm,,Golfe du Bengale,,,Kph,,,,1990,8,20,1990,8,20,500,,,,,
+,Natural,Meteorological,Storm,Convective storm,,Gujarat,,,Kph,,,,1990,8,25,1990,8,25,120,,,,,2200000
+,Natural,Hydrological,Flood,Flash flood,,"Jammu, Kargil district (Kashmir)",Brief torrential rain,,Km2,,,,1990,3,21,1990,3,22,69,,,,,
+,Natural,Hydrological,Flood,Riverine flood,,Bombay (Assam state),Heavy rain,17800,Km2,,,,1990,6,13,1990,6,18,21,,,,,
+,Natural,Hydrological,Landslide,Landslide,,Sikkim,,,,,,,1990,9,16,1990,9,16,30,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,02B,"Guntur, Krishna, East and West Godavari, Visakhapatnam districts (Andhra Pradesh)",,,Kph,,,,1990,5,9,1990,5,9,957,,2600000,2600000,,580000
+,Natural,Meteorological,Storm,Tropical cyclone,,Ganjam district (Orissa),,,Kph,,,,1990,11,,1990,11,,250,,1500000,1500000,,112800
+,Natural,Meteorological,Extreme temperature ,Cold wave,,"North, West",,,Â°C,,,,1990,12,29,1990,12,29,86,,,,,
+,Natural,Meteorological,Extreme temperature ,Cold wave,,"Haryana, Punjab, Jammu, Himachal Pradesh, Rajasthan states",,,Â°C,,,,1990,1,,1990,1,,178,,,,,
+,Natural,Biological,Epidemic,Parasitic disease,,Gujarat,,,Vaccinated,,,,1990,9,,1990,9,,58,,,,,
+,Natural,Hydrological,Flood,,,,,,Km2,,,,1990,8,,1990,8,,74,,,2000,,
+,Natural,Biological,Epidemic,,Gastroenteritis,Bihar,,,Vaccinated,,,,1990,8,,1990,8,,90,,18000,18000,,
+,Natural,Meteorological,Storm,,,"Meghalaya, Manipur, Tinsukia",,,Kph,,,,1990,4,20,1990,4,20,16,,,,,
+,Natural,Hydrological,Flood,Riverine flood,, Near Thondebhavi (Karnataka),Monsoonal rain,,Km2,,,,1991,10,30,1991,10,30,60,,,,,
+,Natural,Geophysical,Earthquake,Ground movement,,"Harsil (near Gangotri, Uttarkashi's Bhagirathi valley, Uttar Pradesh)",,6,Richter,30.780 N,78.774 E,,1991,10,20,1991,10,20,1500,1383,53000,54383,,60000
+,Natural,Hydrological,Flood,Riverine flood,,"Haryana, Uttar Pradesh, Himachal Pradesh, Bihar states",Monsoonal rain,,Km2,,,,1991,8,15,1991,8,29,88,,,,,
+,Natural,Hydrological,Flood,Riverine flood,,"Andhra Pradesh, Maharashtra, Orissa, Gujarat, Madhya Pradesh",,,Km2,,,,1991,7,30,1991,7,30,524,,,100000,,
+,Natural,Meteorological,Storm,Tropical cyclone,4B,"Andhra Pradesh, Tamil Nadu, Pondicherry",,,Kph,,,,1991,11,12,1991,11,19,125,,25000,25000,,
+,Natural,Hydrological,Flood,Coastal flood,,"Assam, Meghalaya states",Tropical cyclone,,Km2,,,,1991,7,13,1991,7,19,59,,2000000,2300000,,
+,Natural,Hydrological,Flood,Coastal flood,,"Assam, Tripura, Arunachal, Mizorem",Tropical cyclone,,Km2,,,,1991,5,7,1991,5,8,30,,2000000,2000000,,
+,Natural,Hydrological,Flood,Riverine flood,,"Bombay, Kerala, Gujarat",Heavy rain,491400,Km2,,,,1991,6,10,1991,6,12,72,,300000,300000,48000,100000
+,Natural,Hydrological,Flood,Riverine flood,,Kerala state,Monsoon rains,,Km2,,,,1991,6,1,1991,7,9,99,,,,,118000
+,Natural,Hydrological,Flood,Riverine flood,,West Bengal state,Monsoonal rain,91960,Km2,,,,1991,9,14,1991,9,15,84,,4000000,4000000,,40000
+,Natural,Biological,Epidemic,Bacterial disease,Cholera,"Nagaon, Morigon districts (Assam)",,,Vaccinated,,,,1991,10,,1991,10,,185,,,,,
+,Natural,Meteorological,Storm,Convective storm,,"Kerala, Gujarat, Orissa states",,,Kph,,,,1992,6,17,1992,6,24,60,,,,,
+,Natural,Hydrological,Flood,Riverine flood,,"Uttar Pradesh, Jammu, Madhya Pradesh",Monsoonal rain,,Km2,,,,1992,9,8,1992,9,31,500,,70000,70000,,57850
+,Natural,Hydrological,Flood,Riverine flood,,"Vamanapuram, Amravilla (Trivadrum district, Kerala state)",,,Km2,,,,1992,10,8,1992,10,8,51,,500,500,,182100
+,Natural,Hydrological,Flood,Riverine flood,,Orissa state,monsoonal rain,,Km2,,,,1992,7,26,1992,7,31,16,,3000000,3000000,,
+,Natural,Hydrological,Flood,Riverine flood,,"Banda, Allahbad, Kanpur (Uttar Pradesh)",,,Km2,,,,1992,9,,1992,9,,86,,,,,
+,Natural,Hydrological,Landslide,Landslide,,Aizawl (Mizoram state),,,,,,,1992,8,9,1992,8,9,60,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,,Naogoan district (Assam state),,140,Kph,,,,1992,4,22,1992,4,22,25,100,,100,,
+,Natural,Meteorological,Extreme temperature ,Cold wave,,Bihar state,,,Â°C,,,,1992,1,,1992,1,,275,,,,,
+,Natural,Hydrological,Flood,,,"Tamil Nadu, Kerala, Karnataka, Andhra Pradesh states",,,Km2,,,,1992,11,10,1992,11,10,179,,,500,,69000
+,Natural,Geophysical,Earthquake,Ground movement,,"Killari, Haegoan, Sostour, Holi (Latur and Osmanabad districts, Maharastra state)",,6,Richter,16.40 N,74.20 E,,1993,9,29,1993,9,29,9748,30000,,30000,,280000
+,Natural,Geophysical,Earthquake,Ground movement,,Latur area,,5,Richter,18.120 N,76.533 E,,1993,11,12,1993,11,12,,25,500,525,,
+,Natural,Hydrological,Flood,Flash flood,,Karnataka state,Brief torrential rain,,Km2,,,,1993,10,11,1993,10,21,35,,,10000,,
+,Natural,Hydrological,Flood,Riverine flood,,Uttar Pradesh,Heavy rain,,Km2,,,,1993,9,9,1993,9,17,260,,,,,500000
+,Natural,Hydrological,Flood,Riverine flood,,"Tripura, Karamganj (Assam)",,,Km2,,,,1993,5,,1993,5,,,,,50000,,
+,Natural,Hydrological,Flood,Riverine flood,,Himachal Pradesh,,,Km2,,,,1993,7,,1993,7,,175,,,,,
+,Natural,Hydrological,Landslide,Landslide,,Bombay,,,,,,,1993,9,23,1993,9,23,20,25,,25,,
+,Natural,Meteorological,Storm,Tropical cyclone,,"Tamil Nadu, Karaikal region (Pondicherry)",,120,Kph,,,,1993,12,4,1993,12,4,61,,12000,72000,,100000
+,Natural,Meteorological,Storm,Tropical cyclone,,"Near Kandi (Murshidabad district, West Bengal)",,200,Kph,,,,1993,4,9,1993,4,9,125,500,,500,,
+,Natural,Biological,Insect infestation,Locust,Locust,"Gujarat, Rajasthan states",,,,,,,1993,9,,1993,9,,,,,,,
+,Natural,Climatological,Drought,Drought,,"Bihar, Orissa, Andhra Pradesh, Maharashtra, Gujarat, Madhya Prasdesh, Uttar Pradesh, Karnataka",,,Km2,,,,1993,3,,1993,10,,,,1175000,1175000,,
+,Natural,Hydrological,Flood,,,"Punjab, Haryana, Himachal Pradesh, Gujarat, Jammu and Kashmir, Rajasthan, Madhya Pradesh, Chandigarh, Assam states",,80937,Km2,,,,1993,7,8,1993,7,31,827,,128000000,128000000,,7000000
+,Natural,Meteorological,Storm,Tropical cyclone,,"Tamil Nadu, Andhra Pradesh, Karnataka states",,125,Kph,,,,1994,10,31,1994,11,4,208,,428500,428500,,19100
+,Natural,Meteorological,Storm,Convective storm,,Mormugao,,,Kph,,,,1994,6,7,1994,6,7,11,100,,100,,
+,Natural,Hydrological,Flood,Riverine flood,,New Delhi,,,Km2,,,,1994,8,17,1994,8,17,14,50,,2550,,
+,Natural,Meteorological,Extreme temperature ,Heat wave,,"New Delhi, Rajasthan, Madhya Pradesh",,49,Â°C,,,,1994,5,,1994,5,,161,,,,,
+,Natural,Biological,Epidemic,Bacterial disease,Pneumonic,"Surat (Gujarat state), Beed (Maharashtra state)",,,Vaccinated,,,,1994,9,28,1994,9,28,53,,5150,5150,,
+,Natural,Hydrological,Flood,,,"Assam, Arunachal Pradesh, Jammu and Kashmir, Himachal, Punjab, Uttar Pradesh, Goa, Kerala, Gujarat states",,,Km2,,,,1994,5,,1994,10,,2001,50,12000000,12060050,,175000
+,Natural,Hydrological,Flood,Riverine flood,,Sikkim state,Monsoonal rain,6520,Km2,,,,1995,9,5,1995,9,8,35,,,,,252
+,Natural,Hydrological,Flood,Riverine flood,,"Bihar, Haryana, Punjab, Rajasthan, Himachal Pradesh, Jammu and Kasmir, Uttar Pradesh, West Bengal, Maharashtra states",Monsoonal rain,762900,Km2,,,,1995,9,1,1995,9,20,1479,,32704000,32704000,,258000
+,Natural,Hydrological,Flood,Riverine flood,,Andhra Pradesh,Heavy rain,,Km2,,,,1995,10,23,1995,10,23,,,,3000,,2000
+,Natural,Hydrological,Landslide,Avalanche,,Kashmir province,Snow storm and heavy winds,,,,,,1995,1,16,1995,1,16,200,250,5000,5250,,
+,Natural,Hydrological,Landslide,Landslide,,Mizoram State,,,,,,,1995,6,3,1995,6,3,40,,,14285,,4500
+,Natural,Hydrological,Landslide,Landslide,,Kulla (Himachal Pradesh),,,,,,,1995,9,12,1995,9,12,400,,,1100000,,
+,Natural,Meteorological,Storm,Tropical cyclone,,"Orissa, Andra Pradesh",,,Kph,,,,1995,11,10,1995,11,10,128,,,,,46300
+,Natural,Meteorological,Storm,Tropical cyclone,,Andhra Pradesh,,,Kph,,,,1995,10,20,1995,10,23,94,,12000,12000,,2000
+,Natural,Meteorological,Extreme temperature ,Heat wave,,"Bihar, Punjab, Haryana and Jammu, Kashmir, Tamil Nadu, Maharashtra, Orissa, Uttar Pradesh, New Delhi, Rajasthan, Madhya Pradesh",,50,Â°C,,,,1995,5,8,1995,6,21,558,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,3,"Andhra Pradesh, Karnataka, Kerala, West Begal, Tamil Nadu, Gujarat, Maharashtra, Uttar Pradesh, Assam, Haryana, Jammu and Kashmir, Rajasthan, Arunachal, Bihar, Tripura states",,,Kph,,,,1996,6,14,1996,6,16,731,,1842100,1842100,,
+,Natural,Meteorological,Storm,Tropical cyclone,07B,"East and West Godavari, Kakinada (Andhra Pradesh state)",,,Kph,,,,1996,11,6,1996,11,8,708,,7000000,7000000,,1500300
+,Natural,Hydrological,Flood,Riverine flood,,"Tamil Nadu, Andhra Pradesh, Kerala, Karnataka states",Heavy rains,177500,Km2,,,,1996,10,21,1996,10,25,388,,100000,100000,,90400
+,Natural,Hydrological,Flood,Riverine flood,,"West Bengal, Arunachal Pradesh, Assam",Monsoonal rain,129000,Km2,,,,1996,7,10,1996,7,24,82,,3000000,3000000,,85000
+,Natural,Hydrological,Flood,Riverine flood,,"Kishanganj, Darbhanga, Sitamarhi, Saharsa districts (Bihar state)",Heavy rains,171900,Km2,,,,1996,7,17,1996,8,10,74,,4000000,4000000,,980
+,Natural,Hydrological,Landslide,Landslide,,"Karnataka, Andhra Pradesh, Maharashtra",,,,,,,1996,9,30,1996,9,30,48,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,,Oman Sea,,,Kph,,,,1996,7,2,1996,7,2,92,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,,Andhra Pradesh,,180,Kph,,,,1996,12,4,1996,12,4,6,,335000,335000,,
+,Natural,Biological,Epidemic,Viral disease,Dengue fever,New Delhi,,56000,Vaccinated,,,,1996,10,4,1996,11,28,354,,8423,8423,,
+,Natural,Climatological,Drought,Drought,,Rajasthan,,72000,Km2,,,,1996,3,,1996,4,,,,,,,542400
+,Natural,Hydrological,Flood,,,Jammu & Kashmir state,,29600,Km2,,,,1996,8,23,1996,8,23,226,,70000,70000,,
+,Natural,Hydrological,Flood,,,Uttar Pradesh,,,Km2,,,,1996,7,11,1996,7,11,21,10,,10,,
+,Natural,Hydrological,Flood,,,"Bihar, Assam, Gujarat, Haryana, Kerala, Rajasthan, Uttar Pradesh",,,Km2,,,,1996,8,25,1996,9,1,500,,,100000,,17600
+,Natural,Geophysical,Earthquake,Ground movement,,Jabalpur (Madhya Pradesh),,6,Richter,23.083 N,80.041 E,04:22,1997,5,22,1997,5,22,43,1500,125000,156500,,37000
+,Natural,Hydrological,Flood,Coastal flood,,Coastal districts of West Bengal (no better info),,3,Km2,,,,1997,8,22,1997,8,22,400,,,,,
+,Natural,Hydrological,Flood,Riverine flood,,"Chandigarh, Chirgaon, Himalayan state of Himachal Pradesh.",Monsoonal rain,,Km2,,,,1997,8,8,1997,8,14,135,20,,20,6200,71000
+,Natural,Hydrological,Flood,Riverine flood,,"Mehsana, Gandhi Nagar, Ahmedabad, Kheda, Sabarkanda, Vadodra, Banaskanda, Surender Nagar districts (Gujarat state)",Monsoonal rain,,Km2,,,,1997,6,22,1997,6,28,111,,1000000,1000000,,153800
+,Natural,Hydrological,Flood,Riverine flood,,Guntoor (Guntur) and Prakasham districts (Andhra Pradesh),Heavy rain,,Km2,,,,1997,9,19,1997,9,24,25,,,,,
+,Natural,Hydrological,Landslide,Landslide,,Gangtok (city) Level 1 = Sikkim,,,,,,,1997,6,9,1997,6,9,28,30,,30,,
+,Natural,Hydrological,Landslide,Landslide,,Darjeeling Hills Level 1 = West Bengal,,,,,,,1997,8,6,1997,8,6,23,,,2000,,
+,Natural,Meteorological,Storm,Tropical cyclone,,Andhra Pradesh,,,Kph,,,,1997,8,22,1997,8,22,25,,,,,
+,Natural,Biological,Epidemic,Bacterial disease,,"Valsad, Chikali and Gandevi (Valsad district) and Vyara and Mahuva taluks (Surat district)",,,Vaccinated,,,,1997,7,15,1997,9,11,48,,413,413,,
+,Natural,Biological,Epidemic,Viral disease,Polio,Lucknow (city) Level 1 = Uttar Pradesh,,,Vaccinated,,,,1997,12,10,1997,12,10,,,210,210,,
+,Natural,Biological,Epidemic,Viral disease,Japanese encephalities,Kahool,,,Vaccinated,,,,1997,,,1997,,,32,,267,267,,
+,Natural,Hydrological,Flood,,,"Andhra Pradesh, Arunachal Pradesh, Assam, Bihar, Gujarat, Himachal Pradesh, Jammu and Kashmir, Karnataka, Kerala, Maharashtra, Madyha Pradesh, Orissa, Punjab, Rajasthan, Sikkim, Uttar Pradesh, West Bengal states",,21840,Km2,,,,1997,9,,1997,9,,1442,,29259000,29259000,,
+,Natural,Hydrological,Flood,,,West,,,Km2,,,,1997,8,,1997,8,,244,,,,,
+,Natural,Meteorological,Storm,Convective storm,,"Tanton, Jaleshwar (Midnapore, West Bengal), Balasore district (Orissa)",,110,Kph,,,,1998,3,24,1998,3,24,250,2500,38000,40500,,10000
+,Natural,Hydrological,Landslide,Landslide,,Himachal Pradesh,,,,,,,1998,3,5,1998,3,5,26,,,,,
+,Natural,Hydrological,Landslide,Landslide,,Assam,,,,,,,1998,6,3,1998,6,3,48,150,,150,,
+,Natural,Hydrological,Landslide,Landslide,,"Malpa village (Pithoragrah district, Uttar Pradesh state)",,,,,,,1998,8,17,1998,8,17,239,,200000,200000,,
+,Natural,Hydrological,Landslide,Landslide,,Mansuna village (Uttar Pradesh state),,,,,,,1998,8,19,1998,8,19,37,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,03A,"Kutch, Porbandar, Jamnagar, Junagadh, Amreli, Bhavnagar, Banaskhanta, Surat, Bharuch, Rajkot, Valsad, Nasvari districts (Gujarat state), Barmer, Jallore districts (Rajasthan state), Ratnagiri district (Maharasthra)",,145,Kph,,,,1998,6,9,1998,6,11,2871,893,4600000,4600893,217000,469000
+,Natural,Meteorological,Storm,Tropical cyclone,,Bombay (city) Level 1 = Maharashtra,,,Kph,,,,1998,10,18,1998,10,18,250,,,,,
+,Natural,Meteorological,Extreme temperature ,Heat wave,,"Orissa, Andhra Pradesh, Rajasthan, Madhya Pradesh, Uttar Pradesh, Gujarat states",,50,Â°C,,,,1998,5,26,1998,5,26,2541,,,,,
+,Natural,Biological,Epidemic,Bacterial disease,Cholera,"Assam, Adilabad, Karimnaga - Level 1 = Andhra Pradesh, West Bangal",,,Vaccinated,,,,1998,7,,1998,7,,679,,14632,14632,,
+,Natural,Biological,Epidemic,Viral disease,Japanese encephalitis,Level 1 = Uttar Pradesh,,,Vaccinated,,,,1998,8,,1998,8,,128,,606,606,,
+,Natural,Hydrological,Flood,Flash flood,,"Gujarat, Maharashtra states","Dam/levy, break or release",,Km2,,,,1998,9,16,1998,9,18,90,,50000,50000,,
+,Natural,Hydrological,Landslide,Avalanche,,Sikkim,,,,,,,1998,3,31,1998,3,31,24,6,,6,,
+,Natural,Meteorological,Extreme temperature ,Cold wave,,"Uttar Pradesh, Bihar, Rajasthan, Jammu and Cachemire states",,,Â°C,,,,1998,12,15,1998,12,15,100,,,,,
+,Natural,Meteorological,Storm,,,"West Begala, Midnapur dis.- Level 1 = Uttar Pradesh",,170,Kph,,,,1998,11,22,1998,11,22,100,,20000,20000,,
+,Natural,Hydrological,Flood,,,"Assam, Arunachal, Bihar, Kerala, Meghalaya, Punjab, Sikkim, Uttar Pradesh, West Bengal states",,67610,Km2,,,,1998,8,,1998,8,,1811,,29227200,29227200,,
+,Natural,Hydrological,Flood,,,"Andhra Pradesh, Hyderabad",,8000,Km2,,,,1998,9,20,1998,9,20,230,,375000,375000,,528600
+,Natural,Meteorological,Storm,Tropical cyclone,05B,"Kendrapara, Jagatsinghpur, Khurda, Puri, Cuttack, Nayagarh, Bhadrak, Keonjhar, Dhenkanal, Balasore, Mayurbhang, Jajapur (Orissa, Andhra Pradesh, West Bengal states)",,260,Kph,,,,1999,10,28,1999,10,30,9843,3312,12625000,12628312,100000,2500000
+,Natural,Geophysical,Earthquake,Ground movement,,"Chamoli, Rudraprayag, Bageshwar (new district), Tehri Garhwal, Pauri Garhwal district",,7,Richter,30.512,79.403,00:35,1999,3,28,1999,3,28,100,394,372000,477894,,2000
+,Natural,Hydrological,Flood,Riverine flood,,"Assam, Bihar, Gujarat, Karnataka, Kerala, Tripura, West Bengal, Arunachal Pradesh, Punjab",Monsoonal rain,,Km2,,,,1999,7,11,1999,8,3,325,,5500000,5500000,,
+,Natural,Meteorological,Storm,Tropical cyclone,O2a,Gujarat Coast,,200,Kph,,,,1999,5,20,1999,5,23,451,,40696,40696,,20000
+,Natural,Meteorological,Storm,Tropical cyclone,,"Orissa, Ganjam, Puri, Khurda, Gajapathi",,200,Kph,,,,1999,10,18,1999,10,18,84,1000,500000,1201000,,470000
+,Natural,Meteorological,Extreme temperature ,Heat wave,,"Orissa, Andhra Pradesh, Gujurat, Uttar Pradesh",,47,Â°C,,,,1999,4,,1999,4,,140,,,,,
+,Natural,Climatological,Wildfire,Forest fire,,"Garhwal & Kumaon (districts of Nainital, Almora and Pithoragarh) Level 1 = Uttar Pradesh",,349,Km2,,,,1999,4,,1999,4,,6,,,,,
+,Natural,Biological,Epidemic,Parasitic disease,,Masarkal,,,Vaccinated,,,,1999,10,,1999,10,,1,,499,499,,
+,Natural,Biological,Epidemic,Viral disease,Acute jaundice syndrome,"Khanpur, Jhalawar district, Level 1 = Delhi & Rajahastan",,,Vaccinated,,,,1999,3,6,1999,3,6,,,285,285,,
+,Natural,Biological,Epidemic,Viral disease,Japanese encephalitis,Andhra Pradesh,,,Vaccinated,,,,1999,9,,1999,12,6,200,,765,765,,
+,Natural,Hydrological,Flood,,,"Uttar Pradesh, Bihar, West Bengal, Madhya Prasdeh, Delhi",,,Km2,,,,1999,9,,1999,9,,229,,22120000,22120000,,2400
+,Natural,Biological,Epidemic,,Acute diarrhoeal syndrome,"Tehri Garhwal Disrict, Level 1 = Uttar Pradesh",,,Vaccinated,,,,1999,9,,1999,9,,11,,75,75,,
+,Natural,Biological,Epidemic,,,Orissa,,,Vaccinated,,,,1999,11,,1999,11,,69,,77880,77880,,
+,Natural,Climatological,Drought,Drought,,"New Delhi city (Delhi province), Gujarat, Rajasthan, Madhya Prasdesh, Andhra Pradesh, Orissa, Maharashtra provinces",,,Km2,,,,2000,4,,2001,,,20,,50000000,50000000,,588000
+,Natural,Hydrological,Flood,Flash flood,,"Yingkiang,Tuting villages (Upper Siang (70051) district, Arunachal Pradesh province), Along, Boleng villages (70054 district, Arunachal Pradesh province), Pasighat, Sika-bamin, Komlighat, Raneghat (70041 district, Arunachal Pradesh province), Tezu, Mahadevpur villages (Lohit district, Arunachal Pradesh province), Golaghat, Nagaon districts (Assam province), ",,55000,Km2,,,,2000,6,10,2000,6,10,20,,3000000,3000000,,
+,Natural,Hydrological,Flood,Flash flood,,"East Siang, 70041, West Siang, 70054, Upper Siang (70051), 70045, 70050, Lower Dibang Valley districts (Arunachal Pradesh province)",,,Km2,,,,2000,7,,2000,7,,130,,,,,
+,Natural,Hydrological,Flood,Flash flood,,"Adilabad, Cuddapah, East Godavari, Guntur, Hyderabad, Karimnagar, Khammam, Krishna, Kurnool, Mahbubnagar, Medak, Nalgonda, Nellore, Nizamabad, Prakasam, Rangareddi, Vishakhapatnam, Warangal, West Godavari districts (Andhra Pradesh province)",Brief torrential rain,129500,Km2,,,,2000,8,23,2000,8,31,179,16,,252016,,173000
+,Natural,Hydrological,Flood,Riverine flood,,"Katihar, Sitamarhi districts (Bihar province), Kinnaur district (Himachal Pradesh province), Bankura, Barddhaman, Birbhum, Haora, Hugli, Maldah, Murshidabad, Nadia, North 24 Parganas, West Midnapore districts (West Bengal province), Pithoragarh, Naini Tal districts (Uttarakhand province), Ahmadabad district (Gujarat province), Andhra Pradesh, Assam, Arunachal Pradesh, Madhya Pradesh, Punjab, Uttar Pradesh, Maharashtra, Rajasthan, Chandigarh, Kerala",Monsoonal rain,300000,Km2,,,,2000,8,2,2000,8,30,867,,22000000,22000000,,43000
+,Natural,Hydrological,Flood,Riverine flood,,"Birbhum, Bardhaman, Murshidabad, Maldah districts (West Bengal province), Dumka, Sahibganj, Deoghar districts (Jharkhand province), Banka, Bhagalpur, Munger, Sheikhpura districts (Bihar province)",Monsoonal rain,12680,Km2,,,,2000,9,18,2000,10,21,884,,24600000,24600000,,691500
+,Natural,Hydrological,Landslide,Landslide,,"Moradabad, Bijnor districts (Uttar Pradesh province), Uttarakhand province",,,,,,,2000,6,,2000,6,,43,,,,,
+,Natural,Hydrological,Landslide,Landslide,,"Ghatkopar village (Mumbai Suburban district, Maharashtra province)",Heavy rain,,,,,,2000,7,12,2000,7,12,58,38,7000,7038,,
+,Natural,Hydrological,Landslide,Landslide,,"Pithoragarh, Naini Tal districts (Uttarakhand province)",,,,,,,2000,8,11,2000,8,11,86,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,,Andhra Pradesh province,,100,Kph,,,,2000,10,17,2000,10,17,,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,03B,"Nagappattinam, Thanjavur, Sirkali, Papanasam, Tiruvallur, Tiruvarur areas (Cuddalore district, Tamil Nadu province), Andhra Pradesh province",,120,Kph,,,,2000,11,29,2000,11,29,,,30000,30000,,
+,Natural,Meteorological,Extreme temperature ,Cold wave,,"Bihar, Uttar Pradesh, West Bengal provinces",,,Â°C,,,,2000,1,,2000,1,,275,,,,,
+,Natural,Biological,Epidemic,Bacterial disease,Cholera,Delhi,,,Vaccinated,,,,2000,5,,2000,5,,,,192,192,,
+,Natural,Biological,Epidemic,Bacterial disease,,"Mumbai, Thane districts",,,Vaccinated,,,,2000,7,,2000,7,,27,,79,79,,
+,Natural,Biological,Epidemic,Viral disease,,"Gonda, Banda districts (Uttar Pradesh)",,,Vaccinated,,,,2000,5,,2000,5,,84,,1055,1055,,
+,Natural,Biological,Epidemic,Viral disease,Japanese encephalitis,Uttar Pradesh,,,Vaccinated,,,,2000,8,,2000,8,,34,,116,116,,
+,Natural,Biological,Epidemic,Viral disease,Japanese encephalitis,Andhra Pradesh state,,,Vaccinated,,,,2000,10,12,2000,10,12,14,,64,64,,
+,Natural,Biological,Epidemic,Viral disease,,Supaul district (Bihar),,,Vaccinated,,,,2000,10,26,2000,10,26,13,,287,287,,
+,Natural,Biological,Epidemic,Viral disease,Japanese Encephalitis,Nawadah district (Bihar),,,Vaccinated,,,,2000,8,31,2000,8,31,19,,58,58,,
+,Natural,Biological,Epidemic,,Enteric diseases,West Bengal,,,Vaccinated,,,,2000,10,,2000,10,,51,,,,,
+,Natural,Hydrological,Flood,,,North 24 Parganas district (West Bengal province),,309,Km2,,,,2000,10,19,2000,10,19,6,,534035,534035,,
+,Natural,Geophysical,Earthquake,Ground movement,,"Ahmadabad, Amreli, Anand, Banas Kantha, Bharuch, Bhavnagar, Dahdod, Gandhinagar, Jamnagar, Junagadh, Kachchh, Kheda, Mahesana, Navsari, Patan, Porbandar, Rajkot, Sabar Kantha, Surat, Surendranagar, Vadodara districts (Gurajat province)",,8,Richter,23.419,70.232,08:46,2001,1,26,2001,1,26,20005,166812,4365000,6321812,100000,2623000
+,Natural,Meteorological,Extreme temperature ,Cold wave,,"Uttar Pradesh, Bihar, Punjab provinces",,-22,Â°C,,,,2001,1,,2001,1,,125,,,,,
+,Natural,Biological,Epidemic,,Unknown,Siliguri (West Bengal),,,Vaccinated,,,,2001,2,1,2001,2,1,28,,42,42,,
+,Natural,Meteorological,Storm,Convective storm,,Uttar Pradesh province,,,Kph,,,,2001,5,24,2001,5,24,21,,,,,
+,Natural,Hydrological,Flood,Flash flood,,"Saran, Gopalganj, Purba Champaran, Madhubani districts (Bihar province), Uttar Pradesh province",,,Km2,,,,2001,9,,2001,9,,48,,2800000,2800000,,26000
+,Natural,Hydrological,Flood,Riverine flood,,"Silchar city (Cachar district, Assam province), Patharkandi village (Karimganj district, Assam province), West Tripura district (Tripura province)",Moosonal rain,,Km2,,,,2001,6,5,2001,6,22,5,,700000,700000,,
+,Natural,Hydrological,Flood,Riverine flood,,"Marshagal, Mahakalpada villages (Kendrapara district, Orissa province), Kakatpur, Astaranga, Kanas, Delanga villages (Puri district, Orissa province), Banki, Kantapada villages (Cuttack district, Orissa province), Balipatna villages (Khordha district, Orissa province), Atharmalik villages (Angul district, Orissa province), Jajpur, Jagatsinghpur, Kalahandi, Koraput, Bolangir, Nayagarh, Baleshwar, Bhadrak districts (Orissa province), Dhamtari, Raipur, Mahasamund, Janjgir-Champa, Raigarh districts (Chhattisgarh province)",Monsoonal rain,105100,Km2,,,,2001,7,8,2001,7,10,100,,9670000,9670000,,90000
+,Natural,Hydrological,Flood,Riverine flood,,"Idukki, Kottayam, Pattanamtitta, Kollam, Alappuzha districts (Kerala province)",Monsoonal rain,4470,Km2,,,,2001,7,4,2001,7,16,86,,40000,40000,,116924
+,Natural,Hydrological,Flood,Riverine flood,,"Aurangabad, Bhojpur, Gopalganj, Jehanabad, Muzaffarpur, Nalanda, Pashchim Champaran, Patna, Purba Champaran, Rohtas, Saran, Sitamarhi, Siwan, Vaishali districts (Bihar province)",,,Km2,,,,2001,8,,2001,8,,,,400000,400000,,
+,Natural,Hydrological,Landslide,Landslide,,Rudra Prayag district (Uttarakhand province),,,,,,,2001,7,16,2001,7,16,27,,,,,
+,Natural,Hydrological,Landslide,Landslide,,Chamba district (Himachal Pradesh province),,,,,,,2001,8,14,2001,8,14,16,,,,,
+,Natural,Hydrological,Landslide,Landslide,,"Amboori village (Thiruvananthapuram district, Kerala province)",,,,,,,2001,11,9,2001,11,9,55,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,,Andhra Pradesh province,,,Kph,,,,2001,10,,2001,10,,78,,25000,27000,,
+,Natural,Meteorological,Storm,Tropical cyclone,01A,"Gujarat, Goa, Maharashtra, Kerala provinces",,80,Kph,,,,2001,5,28,2001,5,28,,,,,,
+,Natural,Meteorological,Extreme temperature ,Cold wave,,"Uttar Pradesh, Rajasthan provinces",,,Â°C,,,,2001,12,,2001,12,,48,,,,,
+,Natural,Biological,Epidemic,Bacterial disease,,"Mumbai, Thane",,,Vaccinated,,,,2001,6,18,2001,6,18,16,,83,83,,
+,Natural,Biological,Epidemic,Bacterial disease,Cholera,Orissa State,floods,,Vaccinated,,,,2001,7,7,2001,8,,33,,34078,34078,,
+,Natural,Biological,Epidemic,Parasitic disease,,Orissa state,,,Vaccinated,,,,2001,8,,2001,8,,12,,24686,24686,,
+,Natural,Hydrological,Flood,,,"Hosdurg borough (Kanhangad city, Kasaragod district, Kerala province), Vertak Nagar area (Thane district, Maharashtra province), Bhandup area (Mumbai Suburban district, Maharashtra province)",,,Km2,,,,2001,6,,2001,6,,28,4,,4,,
+,Natural,Hydrological,Flood,,,Delhi province,,,Km2,,,,2001,8,,2001,8,,10,36,,36,,
+,Natural,Hydrological,Flood,,,"Gopalganj, Purba Champaran, Pashchim Champaran, Muzaffarpur, Vaishali, Saran districts (Bihar province)",,550,Km2,,,,2001,8,20,2001,8,20,158,,7000000,7000000,,26000
+,Natural,Hydrological,Flood,,,"Saran, Gopalganj districts (Bihar province)",,,Km2,,,,2001,9,7,2001,9,24,146,,,,,103000
+,Natural,Geophysical,Earthquake,Ground movement,,Andaman Islands district (Andaman and Nicobar province),,7,Richter,13.036,93.068,04:00,2002,9,13,2002,9,13,2,,,200,,
+,Natural,Meteorological,Storm,Convective storm,,Orissa province,,,Kph,,,,2002,4,11,2002,4,11,,200,10000,10200,,
+,Natural,Meteorological,Storm,Convective storm,,"Gobalpur area (Hugli district, West Bengal), Kolkata, Jalpaiguri, Darjiling districts (West Bengal province)",,80,Kph,,,,2002,4,27,2002,4,27,11,,,,,
+,Natural,Hydrological,Flood,Riverine flood,,"Barpeta, Bongaigaon, Cachar, Darrang, Dhemaji, Dhuburi, Dibrugarh, Goalpara, Golaghat, Jorhat, Kamrup, Karimganj, Kokrajhar, Lakhimpur, Marigaon, Nagaon, Nalbari, Sibsagar, Sonitpur, Tinsukia districts (Assam province), Araria, Begusarai, Bhagalpur, Darbhanga, Gopalganj, Katihar, Khagaria, Kishanganj, Madhepura, Madhubani, Muzaffarpur, Nalanda, Pashchim Champaran, Patna, Pruba Champaran, Purnia, Saharsa, Samastipur, Saran, Sheikhpura, Sheohar, Sitamarhi, Siwan, Supaul districts (Bihar province), Lahul and Spiti district (Himachal Pradesh province), Balaghat district (Madhya Pradesh province), Tehri Garhwal district (Uttarakhand province), Adilabad, Khammam, Karimnagar districts (Andhra Pradesh province), Jalpaiguri, Kochbihar, Darjiling districts (West Bengal province), Meghalaya, Tripura, Arunachal Pradesh, Gujarat, Kerala, Manipur, Maharashrta provinces ",Monssonal rain,276600,Km2,,,,2002,6,21,2002,8,28,549,,42000000,42000000,,30772
+,Natural,Hydrological,Flood,Riverine flood,,"Tehri Garhwal district (Uttaranchal province), Bihar, Assam, Manipur provinces",Heavy rain,6770,Km2,,,,2002,8,11,2002,8,13,33,50,,50,,20000
+,Natural,Hydrological,Flood,Riverine flood,,Balaghat district (Madhya Pradesh province),,,Km2,,,,2002,8,20,2002,8,20,100,,3000,3000,,
+,Natural,Hydrological,Flood,Riverine flood,,"Bharuch district (Gujarat province), Jalgaon, Nasik districts (Maharashtra province)",Monssonal rain,79000,Km2,,,,2002,9,3,2002,9,6,22,,5000,5000,,
+,Natural,Hydrological,Flood,Riverine flood,,"Kannur, Kasaragod, Kozhikode, Malappuram, Thiruvananthapuram districts (Kerala province)",Monsoonal rain,9750,Km2,,,,2002,10,10,2002,10,16,11,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,,West Bengal province,,,Kph,,,,2002,4,3,2002,4,3,9,50,,5050,,416
+,Natural,Meteorological,Storm,Tropical cyclone,,"Baleshwar, Bhadrak, Jagatsinghpur, Kendrapara districts (Orissa province), East Midnapore, North 24 Parganas, South 24 Parganas (West Bengal province)",,60,Kph,,,,2002,11,13,2002,11,13,124,,,,,
+,Natural,Meteorological,Extreme temperature ,Cold wave,,"Bihar, Uttar Pradesh, Himachal Pradesh, Rajasthan, Jharkhand, Jammu and Kashmir, Punjab, Haryana, Delhi provinces",,5,Â°C,,,,2002,12,,2002,12,,900,,,,,
+,Natural,Meteorological,Extreme temperature ,Heat wave,,"Madhya Pradesh, Andhra Pradesh, Uttar Pradesh, Delhi, Rajasthan, Punjab, Haryana, Orissa, West Bengal provinces",,50,Â°C,,,,2002,5,10,2002,5,22,1030,,,,,
+,Natural,Biological,Epidemic,Parasitic disease,,Assam,,,Vaccinated,,,,2002,5,1,2002,5,1,50,,4950,4950,,
+,Natural,Biological,Epidemic,Viral disease,Acute Hepatitis E,Mandi district,,,Vaccinated,,,,2002,3,12,2002,3,12,,,200,200,,
+,Natural,Biological,Epidemic,Viral disease,Japanese encephalitis,Assam,,,Vaccinated,,,,2002,8,13,2002,8,13,86,,,,,
+,Natural,Biological,Epidemic,Viral disease,Acute respiratory syndrome (SARS),,,,Vaccinated,,,,2003,4,25,2003,5,6,,,3,3,,
+,Natural,Climatological,Drought,Drought,,"Uttar Pradesh, Madhya Pradesh, Rajasthan, Punjab, Haryana, Delhi, Karnataka, Kerala, Nagaland, Orissa, Chhattisgarh, Himachal Pradesh, Gujarat, Maharashtra, Andhra Pradesh, Tamil Nadu provinces",Insufficient and erratic monsoon rain,560000,Km2,,,,2002,7,,2002,,,,,300000000,300000000,,910722
+,Natural,Hydrological,Flood,,,"Chennai, Coimbatore, Cuddalore districts (Tamil Nadu province",,,Km2,,,,2002,10,1,2002,10,1,20,,200,200,,
+,Natural,Biological,Epidemic,,Acute Neurological syndrome,Saharanpur (Uttar Pradesh),,,Vaccinated,,,,2002,9,1,2002,9,1,44,,,,,
+,Natural,Meteorological,Storm,,,"Jammu and Kashmir (40424 to 40431), Punjab, Haryana provinces",,,Kph,,,,2003,2,19,2003,2,19,14,4,,4,,
+,Natural,Meteorological,Storm,Tropical cyclone,,Gujarat province,,,Kph,,,,2003,2,18,2003,2,18,5,,140,140,,
+,Natural,Meteorological,Storm,,,Betul district (Madhya Pradesh province),,,Kph,,,,2003,2,17,2003,2,17,20,,,200,,
+,Natural,Meteorological,Storm,Tropical cyclone,,"Krishna, Guntur, West Godavari districts (Andhra Pradesh province)",,100,Kph,,,,2003,12,17,2003,12,17,50,,,40000,,28000
+,Natural,Hydrological,Flood,Flash flood,,"Solang village (Kullu district, Himachal Pradesh)",,,Km2,,,,2003,8,7,2003,8,7,43,15,,15,,
+,Natural,Meteorological,Storm,Tropical cyclone,,"Chirakhawa, Chirakhawa Topopara, Peepulbari part 1, Peepulbari part 2, Bhurakata, Baliabeel, Bengerbhita, Baushkata areas (Dhuburi district, Assam province)",,100,Kph,,,,2003,4,22,2003,4,22,45,4000,,4600,,
+,Natural,Meteorological,Extreme temperature ,Heat wave,,"Andhra Pradesh, Orissa, Tamil Nadu, Vidarbha (=part of Maharashtra), Chhattisgarh, Jharkland, Uttar Pradesh, Rajasthan, Madhya Pradesh, Bihar provinces",,49,Â°C,,,,2003,5,14,2003,6,6,1210,,,,,400000
+,Natural,Meteorological,Storm,Convective storm,,"Bankura, Hugli, Haora districts (West Bengal province)",,,Kph,,,,2003,3,12,2003,3,12,30,500,294765,485910,,16000
+,Natural,Hydrological,Flood,Flash flood,,Kullu district (Himachal Pradesh province),Torrential rain,,Km2,,,,2003,7,16,2003,7,16,150,30,,30,,
+,Natural,Hydrological,Flood,Riverine flood,,"Assam, Bihar, Tripura, West Bengal provinces",Mousson rains,,Km2,,,,2003,6,11,2003,10,10,142,,4550000,4550000,,
+,Natural,Hydrological,Flood,Riverine flood,,"Khavda, Banni, Natkharana, Lakhpat villages (Kachchh district, Gujarat province)",Monsoon rains,,Km2,,,,2003,7,15,2003,9,1,13,,10000,14500,,
+,Natural,Hydrological,Flood,Riverine flood,,"Cuttack, Jagatsinghpur, Kendrapara, Jajpur, Puri, Bolangir, Sonepur, Kalahandi, Rayagada, Gajapati, Baragarh, Koraput, Nayagarh, Ganjam, Angul districts (Orissa province)",Monsoonal rain,117900,Km2,,,,2003,8,27,2003,10,20,67,,3000000,3000000,,169000
+,Natural,Hydrological,Flood,Riverine flood,,Uttar Pradesh province,Hevay rains,,Km2,,,,2003,9,10,2003,9,10,37,,,,,
+,Natural,Hydrological,Landslide,Avalanche,,Administrative unit not available district (Jammu and Kashmir province),,,,,,,2003,3,3,2003,3,3,25,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,,"Mekhliganj, Haldibari, Fukaldabri, Nijtaraf, Kasiabari, Bholarhat, Beltali areas (Kochbihar district, West Bengal province)",,,Kph,,,,2003,4,12,2003,4,12,,60,,460,,
+,Natural,Meteorological,Extreme temperature ,Cold wave,,"Uttar Pradesh, Himachal Pradesh, Haryana, Jammu and Kashmir provinces",,,Â°C,,,,2003,12,15,2004,1,,400,,,,,
+,Natural,Biological,Epidemic,Viral disease,Dengue,Delhi,,,Vaccinated,,,,2003,6,1,2003,11,9,,,2185,2185,,
+,Natural,Hydrological,Flood,Flash flood,,"Goalpara district (Assam province), Meghalaya, Arunachal Pradesh, West Bengal provinces",Heavy rains,,Km2,,,,2004,10,7,2004,10,18,160,,,100000,,
+,Natural,Hydrological,Flood,Riverine flood,,"Wayanad, Kozhikode, Kannur, Kasaragod districts (Kerala province)",Early monsoonal rain,9000,Km2,,,,2004,6,9,2004,6,11,45,,1000,1000,,
+,Natural,Geophysical,Earthquake,Tsunami,,"Kancheepuram, Villupuram, Nagapattinam, Thoothukudi, Tirunelveli Kattabo, Kanniyakumari, Chennai, Thiruvallur, Cuddalore, Pudukkottai, Ramanathapuram, Sivaganga, Thanjavur districts (Tamil Nadu province), Vishakhapatnam, East Godavari, West Godavari, Krishna, Guntur, Prakasam, Nellore districts (Andhra Pradesh province), Kollam, Alappuzha, Ernakulam districts (Kerala province), Puducherry, Karaikal district (Puducherry province), Andaman and Nicobar province",Earthquake,9,Richter,3.295,95.982,,2004,12,26,2004,12,26,16389,6913,647599,654512,5000,1022800
+,Natural,Hydrological,Flood,Flash flood,,"Uttar Pradesh, Himachal Pradesh provinces",Torrential rain,,Km2,,,,2004,9,20,2004,9,22,33,,,,,
+,Natural,Hydrological,Flood,Riverine flood,,"Leimapokpam, Thiyam, Lourembam, Nambol Laitonjam villages (Bishnupur district, Manipur province), Na-Orem, Pukhrambam, Sanjenbam villages (West Imphal district, Manipur province), Oinam, Khangabok villages (Thoubal district, Manipur province)",Incessant rains,,Km2,,,,2004,4,10,2004,4,14,,,,5000,,
+,Natural,Hydrological,Flood,Riverine flood,,"Darbhanga, Madhubani, Sitamarhi, Banka, Bhagalpur, Muzaffarpur, Sheohar districts (Bihar province), West Tripura, South Tripura districts (Tripura province), Kamrup, Nalbari, Darrang, Sonitpur, Dhemaji, Lakhimpur districts (Assam province), Gujarat, Jammu and Kashmir provinces",Monsoonal rain,,Km2,,,,2004,6,20,2004,8,,900,,33000000,33000000,,2500000
+,Natural,Hydrological,Flood,Riverine flood,,"Uttarakhand, Gujarat, Maharashtra, Punjab, Haryana, Rajasthan provinces",Monsoonal rain,,Km2,,,,2004,8,1,2004,9,8,210,,100000,100000,,276000
+,Natural,Meteorological,Storm,,,"Barddhaman, North 24 Parganas, South 24 Parganas districts (West Bengal province)",,,Kph,,,,2005,3,23,2005,3,24,18,50,,7550,,
+,Natural,Hydrological,Landslide,Avalanche,,Administrative unit not available districts (Jammu and Kashmir province),Snowstorms,,,,,,2005,2,15,2005,2,21,250,,5000,5000,,50000
+,Natural,Hydrological,Flood,Riverine flood,,"Gujarat, Madhya Pradesh, Maharashtra, Goa, Orissa, Karnataka, Himachal Pradesh, Jammu and Kashmir provinces",Monsoon rain,35550,Km2,,,,2005,7,24,2005,8,5,1200,55,20000000,20000055,844000,3330000
+,Natural,Geophysical,Earthquake,Ground movement,,Administrative unit not available districts (Jammu and Kashmir province),,8,Richter,34.539,73.588,,2005,10,8,2005,10,8,1309,6622,,156622,,1000000
+,Natural,Hydrological,Flood,Flash flood,,Azamgarh district (Uttar Pradesh province),Heavy rains,12680,Km2,,,,2005,8,26,2005,8,28,27,,800000,800000,,
+,Natural,Hydrological,Flood,Riverine flood,,Mokokchung district (Nagaland province),Heavy rains,,Km2,,,,2005,5,27,2005,5,27,14,12,,12,,
+,Natural,Hydrological,Flood,Riverine flood,,"Yingkiong village (Upper Siang (70051) district, Arunachal Pradesh province), Seppa village (East Kameng (70040) district, Arunachal Pradesh province), Anini village (70050 district, Arunachal Pradesh province), Dibrugarh, Sonitpur, Sibsagar, Dhemaji, Tinsukia, Karimganj, Lakhimpur, Jorhat, Morigaon, Dhuburi, Goalpara, Barpeta districts (Assam province), Bahraich, Shravasti, Banda, Ballia, Lakhimpur Kheri, Kanpur, Varanasi, Mainpuri districts (Uttar Pradesh province), Haridwar, Uttarkashi, Naini Tal, Dehran Dun districts (Uttarakhand province), Muzaffarpur, Darbhanga, Madhubani districts (Bihar province), Birbhum district (West Bengal province)",Monsoon rain,,Km2,,,,2005,7,7,2005,7,28,70,,1904000,1908000,,
+,Natural,Hydrological,Flood,Riverine flood,,"Himachal Pradesh, Uttar Pradesh, Uttarakhand provinces",Monsoonal rain,308700,Km2,,,,2005,9,16,2005,9,19,23,4,,2504,,
+,Natural,Hydrological,Flood,Riverine flood,,"Digras, Nandgavan villages (Yavatmal district, Maharashtra province)",Monsonal rains,,Km2,,,,2005,7,9,2005,7,9,25,,,,,
+,Natural,Hydrological,Flood,Riverine flood,,"Sangla, Kalpa, Yangthang, Sumdo, Khab, Karcham, Leo, Akpa, Kharo villages (Kinnaur district, Himachal Pradesh province), Rampur Bushahr village (Shimla district, Himachal Pradesh province), Kullu, Bilaspur, Mandi districts (Himachal Pradesh)",Heavy rains,6530,Km2,,,,2005,6,26,2005,6,29,6,,5000,5000,,23000
+,Natural,Hydrological,Flood,Riverine flood,,"Karnataka, Andhra Pradesh provinces",Monsoonal rain,619200,Km2,,,,2005,7,23,2005,8,16,126,,100000,100000,,
+,Natural,Hydrological,Flood,Riverine flood,,"Raj Nandgaon, Durg districts (Chhattisgarh province), Baleshwar, Bhadrak, Jajpur districts (Orissa province), Bhandara, Gondiya, Nagpur districts (Maharashtra province), Balaghat, Katni, Jabalpur, Seoni districts (Madhya Pradesh province)",,312900,Km2,,,,2005,9,14,2005,9,20,89,,550000,550000,,420000
+,Natural,Hydrological,Flood,Riverine flood,,"Surat, Vadodara, Bhavnagar, Panch Mahals, Narmada districts (Gujarat province)",Heavy rains,53200,Km2,,,,2005,9,22,2005,10,11,15,,,,,
+,Natural,Hydrological,Flood,Riverine flood,,"Surat, Valsad, Navsari, Bharuch, Vadodara, Surendranagar, The Dangs, Ahmedabad, Anand, Kheda, Amreli, Bhavnagar, Junagadh, Rajkot, Narmada, Jamnagar, Gandhinagar, Sabarkantha districts (Gujarat province)",Heavy rains,,Km2,,,,2005,6,28,2005,7,15,239,,405000,405000,156000,2300000
+,Natural,Hydrological,Flood,Riverine flood,,"Ashoknagar, Chhatarpur, Damoh, Jabalpur, Katni, Narsinghpur, Panna, Rewa, Sagar, Satna districts (Madhya Pradesh province)",Monsoonal rains,55740,Km2,,,,2005,7,2,2005,7,15,62,,49000,49000,,
+,Natural,Hydrological,Flood,Riverine flood,,"Adilabad, Hyderabad, Karimnagar, Khammam, Mahbubnagar, Medak, Nalgonda, Nizamabad, Rangareddi, Warangal, East Godavari, Guntur, Krishna, Nellore, Prakasam, Srikakulam, Vishakhapatnam, Vizianagaram, West Godavari districts (Andhra Pradesh province)",Heavy rains,,Km2,,,,2005,7,10,2005,7,10,12,,10000,10000,,
+,Natural,Hydrological,Flood,Riverine flood,,"East Midnapore, South 24 Parganas, Barddhaman, Nadia districts (West Bengal province), Baleshwar district (Orissa province)",Heavy rains,29110,Km2,,,,2005,10,21,2005,10,24,19,,2000000,2250000,,117000
+,Natural,Hydrological,Flood,Riverine flood,,"Salem, Namakkal, Karur, Erode, Tiruchchirappalli, Vellore, Perambalur, Nagapattinam, Kanniyakumari, Dharmapuri, Madurai, Villupuram, Chennai, Cuddalore districts (Tamil Nadu province), Karaikal district (Puducherry province), Bangalore Rural, Bangalore Urban, Mysore districts (Karnataka province), Nellore, Chittoor, Vishakhapatnam, Srikakulam, Vizianagaram, Cuddapah districts (Andhra Pradesh province), West Bengal, Orissa provinces",Monsoonal rain,131300,Km2,,,,2005,10,23,2005,11,13,162,,2000000,2000000,,
+,Natural,Hydrological,Flood,Riverine flood,,Tamil Nadu province,Torrential rains,,Km2,,,,2005,12,2,2005,12,3,30,,200000,200000,,
+,Natural,Hydrological,Flood,Riverine flood,,"Himachal Pradesh, Punjab, Jammu and Kashmir, Haryana provinces",Mosnoon rain,,Km2,,,,2005,7,5,2005,8,14,10,,2000,2000,,
+,Natural,Hydrological,Landslide,Landslide,,"Guwahati city (Kamrup district, Assam province)",Monsoonal rain,,,,,,2005,8,24,2005,8,25,12,20,,20,,
+,Natural,Meteorological,Extreme temperature ,Heat wave,,"Uttar Pradesh, Bihar, West Bengal, Orissa, Maharashtra, Andhra Pradesh provinces",,49,Â°C,,,,2005,6,,2005,6,,329,,,,,
+,Natural,Meteorological,Extreme temperature ,Severe winter conditions,,"Uttar Pradesh, Punjab, Haryana, Himachal Pradesh, Delhi, Bihar, Rajasthan, Jammu and Kashmir provinces",,2,Â°C,,,,2005,12,,2006,1,,180,,,,,
+,Natural,Biological,Epidemic,Bacterial disease,Meningococcal disease,"Delhi, Haryana, Chandigarh, Uttar Pradesh, Uttaranchal",,12000,Vaccinated,,,,2005,5,18,2005,6,21,48,,405,405,,
+,Natural,Biological,Epidemic,Bacterial disease,Leptospirosis,Maharashtra state,,,Vaccinated,,,,2005,8,28,2005,8,30,66,,,,,
+,Natural,Biological,Epidemic,Viral disease,Japanese encephalitis,"Uttar Pradesh, Bihar",,300000,Vaccinated,,,,2005,7,29,2005,9,13,296,,939,939,,
+,Natural,Biological,Epidemic,Viral disease,Japanese encephalitis,Uttar Pradesh and Bihar states,,,Vaccinated,,,,2005,7,1,2005,11,10,296,,1145,1145,,
+,Natural,Biological,Epidemic,Viral disease,Chikungunya virus disease,"Andhra Prasdesh, Maharashtra, Karnataka states",,,Vaccinated,,,,2005,12,,2006,4,,,,153324,153324,,
+,Natural,Meteorological,Storm,,,"Guntur, Krishna, Srikakulam, Karimnagar, Nalgonda districts (Andhra Pradesh province)",,,Kph,,,,2005,5,1,2005,5,1,20,20,,20,,
+,Natural,Meteorological,Storm,,,Kolkata district (West Bengal province),,,Kph,,,,2005,5,4,2005,5,4,11,20,,20,,
+,Natural,Meteorological,Storm,,,"Andhra Pradesh, Orissa provinces",,,Kph,,,,2005,9,20,2005,9,20,33,,11000,61000,,
+,Natural,Hydrological,Flood,Flash flood,,Jammu and Kashmir provinces,Monsoonal rai,,Km2,32.89,73.88,,2006,8,31,2006,9,11,19,,15000,15000,,
+,Natural,Hydrological,Flood,Riverine flood,,"Gajapati, Rayagada districts (Orissa province)",Monsoonal rain,31360,Km2,19.17,83.65,,2006,7,3,2006,7,8,33,,,,,
+,Natural,Hydrological,Flood,Riverine flood,,"Andhra Pradesh, Gujarat, Maharashtra, Chhattisgarh, Rajasthan, Madhya Pradesh, Orissa, Karnataka provinces",Monsoonal rain,165400,Km2,20.19,73.82,,2006,7,28,2006,9,12,350,65,,4000065,407000,3390000
+,Natural,Meteorological,Storm,Convective storm,,"Uttar Pradesh, Gujarat provinces",,,Kph,,,,2006,5,2,2006,5,2,76,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,,"Andhra Pradesh, West Bengal, Bihar provinces",Monsoonal rain,,Kph,19.73,83.75,,2006,9,18,2006,10,5,114,300,,150300,,
+,Natural,Hydrological,Flood,Flash flood,,"Adilabad, Hyderabad, Karimnagar, Khammam, Mahbubnagar, Medak, Nalgonda, Nizamabad, Rangareddi, Warangal, Srikakulam, Krishna districts (Andhra Pradesh province)",Heavy rain,190900,Km2,17.43,82.81,,2006,4,15,2006,4,18,20,,,,,
+,Natural,Hydrological,Flood,Flash flood,,Madhya Pradesh province,,,Km2,,,,2006,10,1,2006,10,1,39,,,,,
+,Natural,Hydrological,Flood,Riverine flood,,"Assam, Tripura provinces",Monsoonal rain,47020,Km2,26.6,94.02,,2006,5,31,2006,7,24,21,,504000,504000,,
+,Natural,Hydrological,Flood,Riverine flood,,Kerala province,Monsoonal rain,42690,Km2,10.54,76.05,,2006,5,25,2006,6,2,32,,10800,10800,,
+,Natural,Hydrological,Flood,Riverine flood,,"Maharashtra, Gujarat provinces",Monsoonal rain,395400,Km2,18.73,75.23,,2006,5,31,2006,6,4,41,,,,,
+,Natural,Hydrological,Flood,Riverine flood,,"Ballia, Chandauli districts (Uttar Pradesh province)",Monsoonal rain,13110,Km2,25.62,83.67,,2006,6,24,2006,6,27,130,,300000,300000,,
+,Natural,Hydrological,Flood,Riverine flood,,"Navsari, The Dangs districts (Gujarat)",Heavy rain,170100,Km2,22.41,71.31,,2006,7,4,2006,7,7,24,,8400,8400,,
+,Natural,Hydrological,Flood,Riverine flood,,Jammu and Kashmir provinces,Monsoonal rain,,Km2,34.61,73.2,,2006,7,24,2006,8,22,15,,800,800,,
+,Natural,Hydrological,Flood,Riverine flood,,Gujarat province,Monsoonal rain,,Km2,,,,2006,8,,2006,8,,,,50000,50000,,
+,Natural,Hydrological,Flood,Riverine flood,,"Barmer, Jaisalmer, Kota, Udaipur districts (Rajasthan province)",Monsoonal rain,,Km2,,,,2006,8,18,2006,9,2,135,,20000,20000,,
+,Natural,Hydrological,Flood,Riverine flood,,"Balrampur, Bahraich, Lakhimpur Kheri, Shravasti, Gonda, Bara Banki districts (Uttar Pradesh province)",Monsoonal rain,32700,Km2,27.59,81.52,,2006,8,29,2006,9,4,42,,100000,100000,,
+,Natural,Hydrological,Flood,Riverine flood,,"Tamil Nadu, Andhra Pradesh provinces",Monsoonal rain and Cyclonic storm Ogni,40090,Km2,14.13,79.93,,2006,10,26,2006,11,4,47,,225000,225000,,
+,Natural,Hydrological,Flood,Riverine flood,,"Orissa, Andhra Pradesh, Chhattisgarh provinces",Monsoonal rain,302800,Km2,18.1,81.53,,2006,8,1,2006,9,10,185,,2000000,2000000,,
+,Natural,Hydrological,Flood,Riverine flood,,"Madhya Pradesh, Maharashtra, Rajasthan provinces",Heavy rains and hailstorms,,Km2,,,,2006,3,9,2006,3,10,61,113,,113,,
+,Natural,Meteorological,Extreme temperature ,Heat wave,,"Uttar Pradesh, Orissa, Punjab, Delhi provinces",,,Â°C,,,,2006,5,,2006,5,,47,,,,,
+,Natural,Meteorological,Extreme temperature ,Cold wave,,Jammu and Kashmir province,,,Â°C,,,,2007,3,11,2007,3,14,66,25,,25,,
+,Natural,Hydrological,Flood,Flash flood,,"Kurnool, Mahbubnagar, Guntur, Prakasam, East Godavari, West Godavari, Anantapur, Cuddapah districts (Andhra Pradesh province), Thrissur district (Kerala province), Belgaum, Bijapur, Bagalkot, Kodagu, Hassan, Mysore districts (Karnataka province), Mumbai City, Pune districts (Maharashtra province)",Monsoonal rain and tropical cyclone,449300,Km2,14.94,78.16,,2007,6,22,2007,7,4,127,,200000,200000,,
+,Natural,Hydrological,Flood,Riverine flood,,Himachal Pradesh province,Heavy rains,191400,Km2,31.24,76.53,,2007,8,12,2007,8,17,76,,15000,15000,,
+,Natural,Hydrological,Flood,Coastal flood,,"Baleshwar, Kendrapara, Bhadrak, Jagatsinghpur, Jajpur, Mayurbhanj, Khordha, Cuttack, Puri, Kandhamal districts (Orissa province), Kolkata, South 24 Parganas, East Midnapore, West Midnapore, Hughli districts (West Bengal province)",Tropical depression in Bay of Bengal,72010,Km2,20.91,86.4,,2007,9,22,2007,10,3,80,,7200000,7200000,,275000
+,Natural,Hydrological,Flood,Riverine flood,,"Lakhimpur, Dhemaji, Cachar, Karimganj, Hailakandi, Darrang, Dibrugarh districts (Assam province)",Monsoonal rain,74890,Km2,26.26,94.02,,2007,6,18,2007,6,26,15,,200000,200000,,
+,Natural,Hydrological,Flood,Riverine flood,,"Junagadh district (Daman and Diu province), Amreli, Bhavnagar, Jamnagar, Junagadh, Porbandar, Rajkot, Surendranagar districts (Gujarat province), Rajasthan, Madhya Pradesh",Monsoonal rain,61700,Km2,22.02,72.25,,2007,7,1,2007,7,13,225,,63000,63000,,
+,Natural,Hydrological,Flood,Riverine flood,,"Amravati, Mumbai City, Mumbai Suburban, Raigarh, Ratnagiri, Sindhudurg, Thane districts (Maharashtra province)",Monsoonal rain,106600,Km2,21.03,77.52,,2007,7,1,2007,7,6,62,,10000,10000,,
+,Natural,Hydrological,Flood,Riverine flood,,"Raipur, Bilaspur, Mahasamund, Durg districts (Chhattisgarh province)",Monsoonal rain,74000,Km2,20.05,81.86,,2007,6,30,2007,7,13,29,,50000,50000,,
+,Natural,Hydrological,Flood,Riverine flood,,"Udaipur, Amarpur cities (South Tripura district, Tripura province), Sonamura citiy (West Tripura district, Tripura province)",Monsoonal rain,,Km2,23.92,91.23,,2007,7,21,2007,8,3,,,,,,
+FL-2007-000096,Natural,Hydrological,Flood,Riverine flood,,"Bihar, Uttar Pradesh, Assam, Orissa, West Bengal provinces",Monsoonal rain,483900,Km2,22.63,88.49,,2007,7,3,2007,9,22,1103,,18700000,18700000,,
+,Natural,Hydrological,Flood,Riverine flood,,Gujarat province,Monsoonal rain,133800,Km2,22.68,70.93,,2007,8,8,2007,8,15,16,,,,,
+,Natural,Hydrological,Flood,Riverine flood,,"Kurnool, Cuddapah, Warangal, Nalgonda, Karimnagar, Mahbubnagar, Anantapur, Nellore, Krishna districts (Andhra Pradesh province), Gadag district (Karnataka province)",Monsoonal rain,90280,Km2,15.71,79.88,,2007,9,16,2007,10,7,94,,20000,20000,,
+,Natural,Hydrological,Flood,Riverine flood,,"Andhra Pradesh, Tamil Nadu province",Heavy rain,76740,Km2,12.73,79.7,,2007,10,27,2007,11,1,29,,50000,50000,,
+,Natural,Hydrological,Flood,Riverine flood,,"Cuttack, Puri, Khordha, Jajpur, Jagatsinghpur districts (Orissa province)",Monsoonal rain,15360,Km2,20.45,86.2,,2007,8,3,2007,8,27,15,,500000,500000,,
+,Natural,Hydrological,Flood,Riverine flood,,"Assam, Arunachal Pradesh, Meghalaya, Manipur provinces",Monsoonal rain,103600,Km2,27.58,95.26,,2007,7,12,2007,10,10,96,,11100000,11100000,,
+,Natural,Hydrological,Flood,Riverine flood,,Kerala province,Monsoonal rain,21120,Km2,10.39,76.31,,2007,7,16,2007,7,20,44,,35000,35000,,101151
+TC-2007-000208,Natural,Meteorological,Storm,Tropical cyclone,Sidr,"West Bengal, Orissa provinces",,,Kph,,,,2007,11,15,2007,11,15,,,,,,
+,Natural,Meteorological,Extreme temperature ,Cold wave,,"Uttar Pradesh, Jammu and Kashmir, Gujarat provinces",,2,Â°C,,,,2007,12,,2008,1,,47,,,,,
+FL-2008-000089,Natural,Hydrological,Flood,Flash flood,,"Lakhimpu, Dhemaji, Sonitpur districts (Assam province), West Bengal, Orissa, Bihar, Gujarat, Goa, Haryana, Kerala, Karnataka, Maharastra, Madhya Pradesh, Punjab, Rajasthan, Uttar Pradesh, Tamil Nadu, Arunachal Pradesh, Uttarakhand, Jharkhand provinces",Monsoonal rain,350600,Km2,25.18,91.54,,2008,6,11,2008,7,21,1063,,7900000,7900000,,123000
+,Natural,Hydrological,Flood,Riverine flood,,"Orissa, Uttar Pradesh, Himachal Pradesh provinces",Monsoonal rain,,Km2,,,,2008,9,14,2008,9,21,173,,,2400000,,
+FL-2008-000145,Natural,Hydrological,Flood,Riverine flood,,"Muzaffarpur, Supaul, Patna, Katihar, Nalanda, Araria, Pashchim Champaran, Sheikhpura, Saharsa, Purnia, Saran, Begusarai, Bhagalpur, Madhepura, Vaishali, Khagaria districts (Bihar province), Assam province","River Kosi in Nepal discharged huge levels of water, monsoonal rains",80590,Km2,22.044,94.55,,2008,8,30,2008,9,8,47,,2600000,2600000,,20000
+,Natural,Meteorological,Storm,Convective storm,,Uttar Pradesh province,,110,Kph,,,,2008,5,14,2008,5,14,111,50,,50,,25000
+TC-2008-000237,Natural,Hydrological,Flood,Flash flood,,"Thiruvallur, Thoothukudi, Villupuram, Ramanathapuram, Tirunelveli Kattabo, Pudukkottai, Kanniyakumari, Nagapattinam, Cuddalore, Chennai districts (Tamil Nadu province), Puducherry, Karaikal districts (Puducherry province)",Tropical cyclone Nisha,,Km2,,,,2008,11,27,2008,12,4,54,,803740,803740,,
+,Natural,Hydrological,Flood,Riverine flood,,"Assam, Bihar, Gujarat, Goa, Haryana, Jharkhand, Kerala, Karnataka, Maharashtra, Madhya Pradesh, Punjab, Orissa, Rajasthan, Uttarakhand, Uttar Pradesh, Tamil Nadu, West Bengal provinces",,,Km2,,,,2008,7,5,2008,7,14,,,50000,50000,,
+,Natural,Hydrological,Flood,Riverine flood,,"Khammam, West Godavari, Krishna, Guntur districts (Andhra Pradesh province)",Heavy monsoonal rain,75490,Km2,16.65,81.38,,2008,9,5,2008,9,11,74,,,,,
+,Natural,Hydrological,Flood,Riverine flood,,"Lakhimpur, Jorhat districts (Assam province), Uttar Pradesh, Bihar provinces",Monsoonal rain,283800,Km2,27.5,89.79,,2008,7,20,2008,8,8,142,,225000,225000,,
+LS-2008-000007,Natural,Hydrological,Landslide,Landslide,,Administrative unit not available districts (Jammu and Kashmir province),Heavy snow fall,,,,,,2008,2,8,2008,2,8,37,,,,,
+,Natural,Meteorological,Extreme temperature ,Cold wave,,"Uttar Pradesh, Bihar, Haryana, Punjab, Himachal Pradesh, Uttarakhand, Jammu and Kashmir provinces",,4,Â°C,,,,2008,12,,2009,1,,70,,,,,
+TC-2009-000105,Natural,Meteorological,Storm,Tropical cyclone,"Cyclone ""Aila""","Sagar, Namkhana, Kakdwip, Pathar Pratima, Canning, Basanti, Mathurapur, Kultali villages (South 24 Parganas district, West Bengal province), Kolkata, North 24 Parganas, Haora, Hugli, Darjiling districts (West Bengal province)",,110,Kph,,,,2009,5,25,2009,5,25,96,,5100000,5100000,,
+,Natural,Meteorological,Storm,Convective storm,,Kendrapara district (Orissa province),,,Kph,,,,2009,3,31,2009,3,31,15,50,5000,9050,,
+,Natural,Hydrological,Flood,,,"Rajasthan, Uttar Pradesh, Madhya Pradesh, Jammu and Kashmir provinces",Heavy rains,,Km2,,,,2007,2,11,2007,2,16,40,8,,8,,
+,Natural,Meteorological,Extreme temperature ,Heat wave,,"Uttar Pradesh, Rajasthan, Punjab, Delhi provinces",,45,Â°C,,,,2007,4,,2007,6,,72,,,,,
+,Natural,Hydrological,Flood,,,"Tamil Nadu, Karnataka provinces",Heavy rain,144300,Km2,10.76,78.72,,2008,3,20,2008,3,28,37,,10278,10278,,2000
+,Natural,Meteorological,Extreme temperature ,Heat wave,,"Orissa, West Bengal, Bihar, Uttar Pradesh, Jharkhand, Andhra Pradesh provinces",,48,Â°C,,,,2009,4,14,2009,6,26,120,25,,25,,
+,Natural,Hydrological,Flood,Riverine flood,,"Ooty, Coonoor cities (Nilgiris district, Tamil Nadu)",Heavy rains,35730,Km2,11.47,77.85,,2009,11,3,2009,11,8,70,8,,8,,64000
+,Natural,Hydrological,Flood,Riverine flood,,Jainta Hills district (Meghalaya province),Torrential rain,,Km2,,,,2009,10,9,2009,10,9,20,,,,,
+,Natural,Meteorological,Storm,Convective storm,,Uttar Pradesh province,,,Kph,,,,2009,5,11,2009,5,11,32,23,,23,,
+,Natural,Meteorological,Storm,Convective storm,,Uttar Pradesh province,,,Kph,,,,2009,6,7,2009,6,7,20,,,,,
+,Natural,Meteorological,Storm,Convective storm,,"Bihar, Jharkhand provinces",,,Kph,,,,2009,6,28,2009,6,29,35,12,,12,,
+,Natural,Hydrological,Flood,Flash flood,,Delhi province,Torrential rain,,Km2,,,,2009,7,29,2009,7,29,11,,,,,
+FL-2009-000194,Natural,Hydrological,Flood,Riverine flood,,"Bihar, Orissa, West Bengal, Assam, Kerala, Gujarat, Karnataka provinces",Monsoon rain,,Km2,,,,2009,7,,2009,9,,992,,1886000,1886000,,220000
+FL-2009-000217,Natural,Hydrological,Flood,Riverine flood,,"Belgaum, Gulbarga, Bijapur, Raichur, Dharwad, Bagalkot, Bellary, Koppal, Haveri, Bidar, Gadag, Davanegere, Uttar Kannand, Dakshin Kannad districts (Karnataka province), Kurnool, Mahbubnagar, Karimnagar, Anantapur, Krishna, Cuddapah, Guntur, Khammam, Nalgonda districts (Andhra Pradesh province), Maharashtra province",Torrential rains,309700,Km2,15.71,78.23,,2009,9,25,2009,10,12,355,,4100000,4100000,51000,2150000
+,Natural,Hydrological,Flood,Riverine flood,,"Darbhanga, Purnia, Sitamarhi, Saharsa, Madhubani districts (Bihar province)",Heavy rains,,Km2,,,,2009,8,26,2009,8,28,52,,,,,
+,Natural,Hydrological,Landslide,Landslide,,Pithoragarh district (Uttarakhand province),Torrential rain,,,,,,2009,8,8,2009,8,8,45,,,,,
+,Natural,Hydrological,Landslide,Landslide,,"Lal, Bahadur, Shastri, Nagar slums (Mumbai Suburban district, Maharashtra province)",,,,,,,2009,9,3,2009,9,3,10,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,Cyclone Phyan,"Gujarat, Madhya Pradesh, Maharashtra provinces",,,Kph,,,,2009,11,11,2009,11,12,20,,,,,300000
+CW-2010-000013,Natural,Meteorological,Extreme temperature ,Cold wave,,"Srinagar city ('72808' district, '40424' Jammu and Kashmir province), Uttar Pradesh, Himachal Pradesh, Delhi, Bihar provinces",,-9,Â°C,,,,2010,1,2,2010,1,13,100,,,,,
+,Natural,Biological,Epidemic,Viral disease,Japanese Encephalitis and Acute Encephalitis Syndrome,Uttar Pradesh,,,Vaccinated,,,,2009,1,,2009,10,,311,,1521,1521,,
+,Natural,Climatological,Drought,Drought,,"Bongaigaon, Cachar, Dhuburi, Goalpara, Golaghat, Hailakandi, Jorhat, Kamrup, Karbi Anglong, Kokrajhar, Lakhimpur, Marigaon, Nagaon, Sibsagar, Barpeta, Darrang, Dhemaji, Dibrugarh, Karimganj, Nalbari, North Cachar Hills, Sonitpur, Tinsukia districts (Assam province), Bilaspur, Chamba, Hamirpur, Kangra, Kinnaur, Kullu, Lahaul and Spiti, Mandi, Shimla, Sirmaur, Solan, Una districts (Himachal Pradesh province), Chatra, Garhwa, Latehar, Palamu, Dumka, Deoghar, Giridih, Godda, Jamtara, Pakur, Sahibganj, Bokaro, Dhanbad, Purba Singhbhum, Gumla, Hazaribag, Koderma, Lohardaga, Ranchi, Simdega, Saraikela Kharsawan, Pashchim Singhbhum districts (Jharkhand province), Bishnupur, Chandel, Churachandpur, East Imphal, West Imphal, Senapati, Tamenglong, Thoubal, Ukhrul districts (Manipur province), Dimapur, Kohima, Phek, Mokokchung, Mon, Tuensang, Wokha, Zunheboto districts (Nagaland province), Ambedkar Nagar, Ballia, Bareilly, Basti, Deoria, Farrukkhabad, Fatehpur, Ghazipur, Hardoi, Hathras, Jaunpur, Kannauj, Kanpur Dehat, Mainpuri, Mau, Rae Bareli, Sultanpur, Sant Kabir Nagar, Unnao, Agra, Shahjahanpur, Faizabad, Meerut, Mahoba, Aligarh, Jyotiba Phule Nagar, Balrampur, Etah, Rampur, Ghaziabad, Gautam Buddha Nagar, Banda, Mathura, Allahabad, Auraiya, Jalaun, Varanasi, Chandauli, Moradabad, Azamgarh, Siddharth Nagar, Badaun, Sitapur, Firozabad, Saharanpur, Chitrakoot, Etawah, Bulandshahr, Kaushambi, Pilibhit, Muzaffarnagar, Kushinagar, Jhansi, Lucknow, Bijnor, Mirzapur districts (Uttar Pradesh province), Patna, Nalanda, Gaya, Buxar, Bhojpur, Rohtas, Bhabua, Siwan, Nawada, Munger, Aurangabad, Sheikhpura, Lakhisarai, Jamui, Bhagalpur, Banka, Saran, Jehanabad, Muzaffarpur, Sitamarhi, Begusarai, Madhepura, Kishanganj, Katihar, Vaishali districts (Bihar province), Bangalore Urban, Bangalore Rural, Kolar, Tumkur, Chitradurga, Davanagere, Chamrajnagar, Mysore, Mandya, Bellary, Koppal, Raichur, Gulbarga, Bidar, Belgaum, Bagalkot, Bijapur, Gadag districts (Karnataka province), Nanded, Latur, Aurangabad, Jalna, Bid, Parbhani, Osmanabad, Hingoli, Chandrapur, Yavatmal, Wardha, Thane, Raigarh, Nandurbar, Jalgaon, Amravati, Buldana, Washim, Garhchiroli, Pune, Satara, Sangli, Solapur, Kolhapur, Nashik, Dhule, Ahmednagar, Akola districts (Maharasthra province), Rewa, Satna, Sidhi, Shahdol, Anuppur, Umaria, Dindori, Jabalpur, Katni, Balaghat, Narsinghpur, Mandla, Sagar, Panna, Tikamgarh, Chhatarpur, Raisen, Vidisha, Damoh, Sehore, Gwalior, Guna, Ashoknagar, Shivpuri, Datia, Bhind, Morena, Sheopur, Shajapur, Dewas, Ratlam, East Nimar, Burhanpur, Barwani, Jhabua districts (Madhya Pradesh province), Ajmer, Alwar, Banswara, Barmer, Bhilwara, Bikaner, Bundi, Chittaurgarh, Churu, Dausa, Dungarpur, Ganganagar, Hanumangarh, Jaipur, Jaisalmer, Jalor, Jhunjhunu, Jodhpur, Nagaur, Pali, Rajsamand, Sawai Madhopur, Sikar, Sirohi, Tonk, Udaipur districts (Rajasthan province)",,,Km2,,,,2009,7,,2009,8,,,,,,,
+,Natural,Hydrological,Flood,Flash flood,,"Leh, Cholglamsar villages (72785 district, Jammu and Kashmir province)",Heavy rains,145000,Km2,33.53,76.12,,2010,8,6,2010,8,8,196,225,12500,12725,,
+,Natural,Hydrological,Flood,Riverine flood,,"Almora, Naini Tal districts (Uttarakhand province), Bihar, Uttar Pradesh provinces",Monsoonal rains,38537,Km2,26.73,82.84,,2010,9,18,2010,9,30,200,,3267183,3267183,,1680000
+,Natural,Meteorological,Storm,Convective storm,,"Nawabganj town (Gonda district, Uttar Pradesh province), Allahabad, Unnao districts (Uttar Pradesh province)",,,Kph,,,,2010,5,24,2010,5,24,12,30,,2030,,
+,Natural,Meteorological,Storm,Tropical cyclone,"Cyclone ""Laila""","Krishna, Prakasam, Nellore, Guntur districts (Andhra Pradesh province), Tamil Nadu province",,110,Kph,,,,2010,5,20,2010,5,20,32,,,,,
+,Natural,Meteorological,Storm,Convective storm,,"Uttar Pradesh, Bihar provinces",,,Kph,,,,2010,5,6,2010,5,8,54,50,,50,,
+,Natural,Meteorological,Storm,Tropical cyclone,Cyclone Jal,Andhra Pradesh province,,100,Kph,,,,2010,10,31,2010,11,3,22,,,,,
+,Natural,Meteorological,Storm,Convective storm,,"Mushalpur, Baksa towns (Nalbari district, Assam province)",,,Kph,,,,2010,4,10,2010,4,10,28,,,5000,,
+,Natural,Meteorological,Storm,Convective storm,,"Bihar, Jharkhand provinces",,,Kph,,,,2010,8,25,2010,8,25,25,,,,,
+,Natural,Hydrological,Flood,Riverine flood,,"Ambala, Kurukshetra districts (Haryana province), Punjab, Kerala provinces",Monsoonal rains,147437,Km2,30.18,74.77,,2010,7,5,2010,7,15,53,,,400000,,447000
+TC-2010-000097,Natural,Hydrological,Flood,Riverine flood,,Andhra Pradesh province,,63170,Km2,15.22,79.48,,2010,5,18,2010,5,24,27,,50000,50000,,
+,Natural,Hydrological,Flood,Riverine flood,,Delhi province,Heavy rains,,Km2,,,,2010,7,13,2010,7,13,11,,,,,
+,Natural,Hydrological,Flood,Riverine flood,,Lakhimpur district (Assam province),Monsoonal rain,12555,Km2,26.235,92.25,,2010,9,5,2010,9,17,,,30000,30000,,
+,Natural,Hydrological,Flood,Riverine flood,,"Punjab, Haryana, Uttar Pradesh provinces",Monsoonal rains,10843,Km2,25.965,76.05,,2010,9,9,2010,9,9,,,12500,12500,,
+,Natural,Hydrological,Flood,Riverine flood,,"Chennai, Cuddalore, Nagapattinam, Pudukottai, Ramanthapuram, Thanjavur, Thiruvallur, Villupuram, Thoothukudi, Tirunelveli Kattabo districts (Tamil Nadu province)",Monsoonal rain,57474,Km2,9.88,78.47,,2010,11,15,2010,12,7,203,,,,,22000
+,Natural,Hydrological,Landslide,Avalanche,,Administrative unit not available district (Jammu and Kashmir province),,,,,,,2010,2,8,2010,2,8,17,,,,,
+ST-2010-00074,Natural,Meteorological,Storm,Tropical cyclone,,"Bihar, West Bengal, Assam provinces",,,Kph,,,,2010,4,13,2010,4,14,114,,,500000,,
+,Natural,Meteorological,Extreme temperature ,Heat wave,,"Delhi, Haryana, Madhya Pradesh, Orissa, Rajasthan, Uttar Pradesh provinces",,49,Â°C,,,,2010,3,,2010,5,,250,,,,,
+EQ-2011-000136,Natural,Geophysical,Earthquake,Ground movement,,"Sikkim, West Bengal, Bihar, Assam, Meghalaya provinces",,7,Richter,27.73,88.155,18:11,2011,9,18,2011,9,18,112,200,500000,575200,,
+,Natural,Meteorological,Storm,Convective storm,,Uttar Pradesh province,,,Kph,,,,2011,5,20,2011,5,20,42,50,,50,,
+,Natural,Hydrological,Flood,Riverine flood,,West Bengal province,Mosnoonal rains,28684,Km2,22.306,88.34,,2011,8,10,2011,9,13,47,,700000,700000,,275000
+,Natural,Meteorological,Extreme temperature ,Cold wave,,"Delhi province, Allahabad, Pratapgarh, Jaunpur, Bara Banki districts (Uttar Pradesh province), Sundernagar city (Mandi district, Himachal Pradesh province), Bhuntar city (Kullu district, Himachal Pradesh province), Shimla, Solan districts (Himachal Pradesh province), Leh city ('40422' Jammu and Kashmir province), Qazigund city ('40425' Jammu and Kashmir province), Bihar province",,-20,Â°C,,,,2011,1,1,2011,1,18,80,,,,,
+,Natural,Meteorological,Storm,Convective storm,,Karnataka province,,,Kph,,,,2011,4,15,2011,4,15,17,,,,,
+FL-2011-000138,Natural,Hydrological,Flood,Riverine flood,,"Angul, Baleshwar, Baragarh, Bhadrak, Boudh, Cuttack, Deogarh, Dhenkanal, Jajpur, Jagatsinghpur, Jharsuguda, Kendrapara, Khordha, Mayurbhanj, Nayagarh, Nuapada, Puri, Sambalpur districts (Orissa province)",Monsoonal rains,27751,Km2,20.651,86,,2011,9,23,2011,10,23,239,,3443989,3443989,,930000
+,Natural,Hydrological,Flood,Riverine flood,,"Dhemaji district (Assam province), East Garo Hills, South Garo Hills, West Garo Hills districts (Meghalaya province)",Monsoonal rain,50117,Km2,26.59,92.18,,2011,8,15,2011,9,8,7,,11000,11000,,
+,Natural,Hydrological,Flood,Riverine flood,,"Barpeta, Bongaigaon, Darrang, Dhemaji, Dhuburi, Golaghat, Jorhat, Karbi Anglong, Sibsagar, Lakhimpur, Nagaon, Sonitpur districts, (Assam province), Begusarai, Bhagalpur, Bhojpur, Buxar, Gopalganj, Katihar, Khagaria, Kishanganj, Lakhisarai, Madhubani, Madhepura, Muzaffarpur, Patna, Purnia, Samastipur, Saran, Saharsa, Sitamarhi, Supaul, Vaishali, Pashchim Champaran districts (Bihar province), Azamgarh, Aligarh, Ambedkar Nagar, Badaun, Ballia, Bara Banki, Bahraich, Bareilly, Bijnor, Faizabad, Farrukhabad, Ghazipur, Gonda, Gorakhpur, Hardoi, Jyotiba Phule Nagar, Kannauj, Kanpur, Kushinagar, Lakhimpur Kheri, Meerut, Muzaffarnagar, Moradabad, Pilibhit, Rampur, Shahjahanpur, Sitapur, Unnao districts (Uttar Pradesh province)",Monsoonal rain,40941,Km2,26.376,86.24,,2011,8,15,2011,10,2,204,,5549080,5549080,,
+,Natural,Hydrological,Flood,Riverine flood,,"Gonda, Balrampur, Faizabad, Bara Banki districts (Uttar Pradesh province), Rajasthan province","Monsoonal rains, dam releases",85509,Km2,28.524,80.93,,2011,7,23,2011,8,9,19,,200000,200000,,
+,Natural,Hydrological,Flood,Riverine flood,,Orissa province,Monsoonal rains,,Km2,,,,2011,9,5,2011,9,15,42,,2100000,2100000,,432000
+,Natural,Hydrological,Flood,Riverine flood,,"Uttar Pradesh, Uttarakhand province",Heavy monsoonal rains,,Km2,,,,2011,6,15,2011,7,16,50,,,,,20000
+FL-2012-000110,Natural,Hydrological,Flood,Riverine flood,,"Anjaw (70044), Lohit, Changlang, 70045, 70050, Lower Dibang Valley, East Siang, Upper Siang (70051) districts (Arunachal Pradesh province), Assam province",Monsoonal rain,254935,Km2,26.5659,92.44,,2012,6,26,2012,7,13,120,,2200000,2200000,,
+,Natural,Hydrological,Flood,Riverine flood,,"Palchan village (Kullu district, Himachal Pradesh province), Uttarkashi, Rudra Prayag, Chamoli districts (Uttarakhand province), Moradabad district (Uttar Pradesh province), Kathua village (72780 district, Jammu and Kashmir province)",Torrential rain,31390,Km2,30.1135,78.85,,2012,8,4,2012,8,9,30,,1200,1200,,110000
+,Natural,Hydrological,Flood,Riverine flood,,"Rudra Prayag, Bageshwar districts (Uttarakhand province)",Heavy rains,37710,Km2,31.3,76.85,,2012,9,16,2012,9,18,45,,200,200,,20000
+,Natural,Hydrological,Flood,Riverine flood,," Barpeta, Bongaigaon, Darrang, Dhemaji, Dhuburi, Dibrugarh, Goalpara, Golaghat, Jorhat, Kamrup, Lakhimpur, Marigaon, Nagaon, Nalbari, Papum Pare, Sibsagar, Sonitpur, Tinsukia districts (Assam province), Bhagalpur, Darbhanga, Katihar, Khagaria, Muzaffarpur, Patna, Siwan, Supaul districts (Bihar province), Sahibganj district (Jharkhand province), North Sikkim district (Sikkim province), Ballia, Bara Banki, Faizabad districts (Uttar Pradesh province), Murshidabad district (West Bengal province), West Siang, East Siang, Lohit, Papum Pare districts (Arunachal Pradesh province)",Monsoonal rains,42597,Km2,26.8,93.63,,2012,9,19,2012,9,23,21,,2000000,2000000,,98000
+,Natural,Hydrological,Flood,Riverine flood,,Himachel Pradesh province,,,Km2,,,,2012,8,21,2012,8,23,26,,9460,9460,,16000
+,Natural,Geophysical,Mass movement (dry),Avalanche,,Adminitrative unit not available districts (Jammu and Kashmir province),,,,,,,2012,2,23,2012,2,23,16,,,,,
+,Natural,Hydrological,Flood,Riverine flood,,"Jaipur, Dhaulpur, Dausa, Tonk, Jhunjhunun, Sikar, Hanumangarh, Bikaner districts (Rajasthan province), Anjaw (70044), 70045, 70050, Lower Dibang Valley, Upper Siang (70051) districts (Arunachal Pradesh province)",Heavy rains,,Km2,,,,2012,8,21,2012,8,23,37,,,,,
+FL-2013-000070,Natural,Hydrological,Flood,Riverine flood,,"Uttarakhand, Himachal Pradesh, Uttar Pradesh, Bihar, Karnataka, Kerala, Gujarat, West Bengal provinces",Monsoonal rain,131743,Km2,32.714,76.61,,2013,6,12,2013,6,27,6054,4473,500000,504473,500000,1100000
+,Natural,Meteorological,Storm,Convective storm,,"Bihar, Jharkhand provinces",,,Kph,,,,2013,10,5,2013,10,6,32,,,,,
+,Natural,Meteorological,Storm,Convective storm,,Uttar Pradesh province,,,Kph,,,,2013,3,29,2013,3,30,9,,,,,
+EQ-2013-000056,Natural,Geophysical,Earthquake,Ground movement,,Administrive unit not available district (Jammu and Kashmir province),,6,Richter,33.061,75.863,12:27,2013,5,1,2013,5,1,3,70,59280,59350,,120000
+,Natural,Meteorological,Storm,Tropical cyclone,Cyclone Thane,"Cuddalore district (Tamil Nadu province), Puducherry district (Puducherry province)",,140,Kph,,,,2011,12,29,2011,12,30,47,,,250000,,375625
+,Natural,Meteorological,Extreme temperature ,Cold wave,,"Uttar Pradesh, Punjab, Haryana provinces",,,Â°C,,,,2011,12,16,2011,12,31,132,,,,,
+,Natural,Meteorological,Storm,Tropical cyclone,Cyclone Nilam,"Andhra Pradesh, Tamil Nadu provinces",,,Kph,11.82,78.08,,2012,11,4,2012,11,8,40,,70000,70000,,
+,Natural,Meteorological,Extreme temperature ,Cold wave,,"Karimnagar, Vishakhapatnam, Guntur districts (Andhra Pradesh province)",,,Â°C,,,,2012,1,15,2012,1,17,15,,,,,
+,Natural,Meteorological,Extreme temperature ,Cold wave,,"Bihar, Haryana, Himachal Pradesh, Jammu and Kashmir, Punjab, Rajasthan, Uttar Pradesh provinces",,,Â°C,,,,2012,12,22,2013,1,20,249,,,,,
+TC-2013-000133,Natural,Meteorological,Storm,Tropical cyclone,Cyclone Phailin,"Orissa, Andhra Pradesh, Jharkhand, Bihar, West Bengal, Chhattisgarh provinces",,200,Kph,,,,2013,10,12,2013,10,14,47,,13230000,13230000,,633471
+,Natural,Meteorological,Storm,Tropical cyclone,Helen,"Krishna, Guntur, East Godavari, West Godavari, Vishakhapatnam districts (Andhra Pradesh province) ",,65,Kph,,,,2013,11,22,2013,11,22,10,,,,,262000
+,Natural,Hydrological,Flood,Riverine flood,,"Sultanpur, Sitapur, Rae Bareli, Bara Banki, Faizabad, Gorakhpur, Basti, Kushinagar, Bahraich, Gonda, Shravasti districts (Uttar Pradesh province)",Monsoon rains,,Km2,,,,2013,7,9,2013,7,10,174,,500000,500000,,2000
+,Natural,Hydrological,Flood,Riverine flood,,"Bhopal, Hoshangabad, Seoni, Narsinghpur, Jabalpur districts (Madhya Pradesh province), Uttar Pradesh, Assam provinces",Monsoon rains,,Km2,,,,2013,8,22,2013,8,27,73,,40000,40000,,
+,Natural,Hydrological,Flood,Riverine flood,,"Orissa, Andhra Pradesh, West Bengal provinces",Monsoonal rain,,Km2,,,,2013,10,21,2013,10,26,72,,375000,375000,,260000
+ST-2013-00060,Natural,Meteorological,Storm,Tropical cyclone,Tropical cyclone Mahasen,Andhra Pradesh province,,,Kph,,,,2013,5,16,2013,5,16,8,4,,4,,
+,Natural,Meteorological,Extreme temperature ,Heat wave,,"Adilabad, East Godavari, Guntur, Karimnagar, Khammam, Krishna, Nalgonda, Nizamabad, Prakasam, Vishakhapatnam, Warangal, West Godavari districts (Andhra Pradesh province)",,46,Â°C,,,,2013,4,1,2013,5,30,557,,,,,
+,Natural,Hydrological,Flood,,,"Dhemaji, Tinsukia, Nagaon, Golaghat, Jorhat, Kamrup, Karimganj, Lakhimpur, Morigaon, Sibsaga, Bongaigaon, Kokrajhar districts (Assam province)",Monsoonal rain,38019,Km2,27.387,94.92,,2013,6,23,2013,7,15,80,,2000000,2000000,,
+,Natural,Meteorological,Extreme temperature ,Cold wave,,"Uttar Pradesh, Jammu and Kashmir, Uttarakhand, Delhi provinces",,-9,Â°C,,,,2014,1,20,2014,1,24,24,,,,,
+,Natural,Meteorological,Storm,Convective storm,,"Doda, Bhaderwah, Thathri, Gandoh, Bhallessa villages (Kishtwar (72809) district, Jammu and Kashmir (40427) province), Kora Pani, Tangdhar villages (Kupwara (72786) district, Jumma and Kashmir (40431) province)",,,Kph,,,,2014,3,10,2014,3,12,17,,9610,9610,,
+,Natural,Meteorological,Storm,Convective storm,,Hyderabad district (Andhra Pradesh province),,,Kph,,,,2014,3,6,2014,3,7,7,58,1870,1928,,
+,Natural,Meteorological,Extreme temperature ,Severe winter conditions,,"Himachal Pradesh, Uttarakhand, Uttar Pradesh provinces",,,Â°C,,,,2014,12,17,2014,12,18,140,,,,,
+,Natural,Hydrological,Flood,Riverine flood,,"Shravasti, Balrampur, Sitapur, Lakhimpur Kheri, Gonda, Bara Banki, Faizabad, Azamgarh districts (Uttar Pradesh province), Uttarakhand, Bihar, Assam provinces","Heavy rains, overflowing rivers after dam opening in Nepal",,Km2,,,,2014,8,16,2014,9,1,94,,500000,500000,,
+,Natural,Hydrological,Flood,Riverine flood,,Assam province,Heavy monsoonal rain,49220,Km2,,,,2014,6,26,2014,6,28,27,,18500,18500,,2000
+FL-2014-000122,Natural,Hydrological,Flood,Riverine flood,,Jammu and Kashmir provinces,Monsoonal rain,,Km2,,,,2014,9,,2014,9,,298,,275000,275000,150000,16000000
+,Natural,Hydrological,Flood,Riverine flood,,"Tura village (West Garo Hills district, Meghalaya province), Goalpara, Kamrup districts (Assam province)",Torrential monsoonal rains; Typhoon Kalmaegi,61895,Km2,,,,2014,9,24,2014,10,11,95,,,650000,,163000
+TC-2014-000141,Natural,Meteorological,Storm,Tropical cyclone,Cyclone Hudhud,"Vishakhapatnam, Gangavaram towns (Vishakhapatnam district, Andhra Pradesh province), Baragarh, Bolangir, Boudh, Gajapati, Ganjam, Kalahandi, Kandhamal, Khordha, Koraput, Malkangiri, Nabarangpur, Nayagarh, Nuapada, Puri, Rayagada, Sonepur districts (Orissa province), Chhattisgarh province",,215,Kph,,,,2014,10,12,2014,10,12,53,,920000,920000,530000,7000000
+,Natural,Meteorological,Storm,Convective storm,,"Ghaziabad district (Utar Pradesh province), Delhi, West Bengal provinces",,,Kph,,,,2014,5,30,2014,5,31,15,26,,26,,
+,Natural,Hydrological,Flood,Riverine flood,,"Uttarakhand, Himachal Pradesh provinces",Excessive rainfall,,Km2,,,,2014,7,16,2014,7,22,26,,,,,
+,Natural,Hydrological,Flood,Riverine flood,,Orissa province,Torrential monsoonal rain,,Km2,,,,2014,8,3,2014,8,4,35,,179000,179000,,200000
+,Natural,Hydrological,Flood,Riverine flood,,Odisha province,,,Km2,,,,2014,8,9,2014,8,16,47,,3600000,3600000,,100000
+,Natural,Hydrological,Landslide,Landslide,,"Malin village (Pune district, Maharashtra province)",Monsoonal rains,,,,,,2014,7,30,2014,7,30,151,,,200,,
+,Natural,Meteorological,Storm,Convective storm,,Uttar Pradesh province,,,Kph,,,,2014,4,17,2014,4,20,27,,,,,
+,Natural,Meteorological,Extreme temperature ,Cold wave,,Muzaffarnagar district (Uttar Pradesh province),,3,Â°C,,,,2014,12,7,2014,12,9,16,,,,,
+,Natural,Meteorological,Storm,Convective storm,,"Gujarat, Punjab, Himachal Pradresh, Haryana, Maharashtra, Bihar, Uttar Pradesh, Madhya Pradesh, Rajasthan, Jammu and Kashmir, Uttarakhand, West Bengal provinces",,,Kph,,,,2015,3,6,2015,3,18,27,,,,106000,906000
+FL-2015-000029,Natural,Hydrological,Flood,Flash flood,,"Chadoora village (72811 district, Jammu and Kashmir province)",Heavy rains,70288,Km2,33.1767,76.41,,2015,3,20,2015,3,31,44,25,,2122,,76000
+FL-2015-000068,Natural,Hydrological,Flood,Riverine flood,,"Mirik, Kalimpong, Darjeeling villages (Darjiling district, West Bengal province), ",,,Km2,,,,2015,6,23,2015,6,30,40,,,1000,,
+,Natural,Hydrological,Flood,Riverine flood,,"Kachchh, Patan, Banas Kantha districts (Gujarat province), Malda, Jalpaiguri districts (West Bengal province), Jorhat, Dhemaji, Lakhimpur, Dhuburi, Darrang, Goalpara, Karbi Anglong, Marigaon districts (Assam province), Manipur, Orissa, Rajasthan, Madhya Pradesh provinces","Monsoon rains, exacerbated by tail end of Cyclone Komen",629962,Km2,26.2074,82.62,,2015,7,15,2015,8,19,293,,13709887,13709887,,
+,Natural,Hydrological,Flood,Riverine flood,,"Rajasthan, Uttar Pradesh, Jammu and Kashmir, Arunachal Pradesh, Uttarakhand, Punjab, Haryana, Himachal Pradesh provinces",Torrential monsoonal rains,,Km2,,,,2015,7,7,2015,7,13,25,,,,,
+,Natural,Hydrological,Flood,,,"Sonitpur, Lakhimpur, Kokrajhar, Dhemaji districts (Assam province), Arunachal Pradesh province ",,,Km2,,,,2015,7,14,2015,7,16,,,85250,85250,,
+,Natural,Meteorological,Storm,Convective storm,,"Purnia, Madhepura, Madhubani, Supaul, Sitamarhi districts (Bihar province)",,150,Kph,,,,2015,4,21,2015,4,21,100,100,125000,125100,,160000
+,Natural,Meteorological,Storm,Convective storm,,Tripura province,,,Kph,,,,2015,4,4,2015,4,5,1,,10000,10000,,3000
+,Natural,Meteorological,Storm,Convective storm,,"Deogarh, Nabarangpur, Malkangiri districts (Orissa province), Andhra Pradesh province",,,Kph,,,,2015,9,6,2015,9,6,32,,,,,
+,Natural,Meteorological,Storm,Convective storm,,Andhra Pradesh province,,,Kph,,,,2015,5,19,2015,5,19,23,,,,,
+,Natural,Meteorological,Storm,Convective storm,,Maharashtra province,,,Kph,,,,2015,10,3,2015,10,4,29,,,,,
+EQ-2015-000048,Natural,Geophysical,Earthquake,Ground movement,,"Bihar, Uttar Pradesh, West Bengal, Sikkim provinces",,8,Richter,28.2305,84.7314,,2015,4,25,2015,4,25,78,560,,560,,
+,Natural,Geophysical,Earthquake,Ground movement,,Bihar province,,7,Richter,27.8087,86.0655,12:35,2015,5,12,2015,5,12,20,,,,,
+EQ-2015-000147,Natural,Geophysical,Earthquake,Ground movement,,"Administrative unit not available districts (Jammu and Kashmir province), Delhi, Punjab provinces",,8,Richter,36.5244,70.3676,13:39,2015,10,26,2015,10,26,,10,,10,,
+,Natural,Hydrological,Flood,Flash flood,,"Bhadrairuppu village (Virudhunagar district, Tamil Nadu province)",Torrential rain,14179,Km2,10.7121,79.18,,2015,5,17,2015,5,21,8,,200,200,,
+,Natural,Hydrological,Flood,Riverine flood,,"Amreli, Rajkot, Surat districts (Gujarat province), Maharashtra province",Monsoon rains,43782,Km2,21.8734,70.76,,2015,6,19,2015,6,20,81,,9000,9000,,604000
+FL-2015-000066,Natural,Hydrological,Landslide,Landslide,,"Barpeta, Sonitpur, Goalpara, Dhemaji, Lakhimpur, Tinsukia, Darrang, Nalbari, Jorhat, Kamrup, Dibrugarh, Nagaon, Bongaigaon districts (Assam province) ",Seosnal monsoon,,,26.9195,93.87,,2015,6,2,2015,6,29,3,,9000,9000,,
+,Natural,Meteorological,Extreme temperature ,Heat wave,,"Delhi, Andhra Pradesh, Orissa provinces",,48,Â°C,,,,2015,5,20,2015,5,31,2248,,,,,
+,Natural,Climatological,Drought,Drought,,"Tamil Nadu, Rajasthan, Jharkhand, Assam, Andhra Pradesh, Himachal Pradesh, Nagaland; Maharashtra, Bihar, Madhya Pradesh, Chhattisgarh, Telangana, Jharkand, Odisha states",Erratic rainfall,,Km2,,,,2015,1,,2016,12,,,,330000000,330000000,400000,3000000
+,Natural,Hydrological,Flood,,,Assam province,Monsoonal rain,69190,Km2,26.8946,93.75,,2015,8,13,2015,8,19,5,,18000,18000,,
+,Natural,Hydrological,Flood,,,"Dhemaji, Kokrajhar, Bongaigaon, Sonitpur, Barpeta, Goalpara, Marigaon, Cachar, Lakhimpur, Jorhat, Tinsukia, Darrang, Nalbari, Kamrup, Dibrugarh, Sibsagar districts (Assam province) ",Hearvy rain,,Km2,,,,2015,8,28,2015,8,30,18,,736000,787000,,
+TC-2015-000163,Natural,Hydrological,Flood,,,"Chittoor, Cuddapah, Prakasam, Nellore districts (Andhra Pradesh province), Chennai, Cuddalore, Nagapattinam, Kancheepuram, Thiruvallur, Villupuram districts (Tamil Nadu province), Puducherry province",Tropical depression 'Rovan',93202,Km2,118.278,788.55,,2015,11,8,2015,12,4,325,1000,1800000,1801000,755000,2200000
+,Natural,Hydrological,Flood,,,"Arunachal Pradesh, Assam, Nagaland provinces",Pre-monsoon rains,70518,Km2,27.464,95.607,,2016,4,22,2016,4,25,18,,100000,100000,,150000
+,Natural,Meteorological,Storm,Convective storm,,"Muzaffarpur, Patna, Siwan districts (Bihar province)",,,Kph,,,,2016,6,12,2016,6,12,11,,,,,
+,Natural,Meteorological,Storm,Convective storm,,"Bihar, Uttar Pradesh, Jharkhand, Madhya Pradesh provinces",,,Kph,,,,2016,6,20,2016,6,21,93,,,,,
+,Natural,Geophysical,Earthquake,Ground movement,,"Guwahati city (Kamrup district, Assam province), East Imphal, West Imphal, Senapati, Thoubal, Bishnupur, Tamenglong districts (Manipur province)",,7,Richter,24.804,93.65,,2016,1,3,2016,1,3,8,308,10500,10808,,75000
+,Natural,Hydrological,Flood,Flash flood,,"Chamoli, Pithoragahr districts (Uttarakhand province), Assam, Arunachal Pradesh provinces",Torrential rains,135742,Km2,27.068,93.95,,2016,6,25,2016,7,1,61,,,,,100000
+,Natural,Hydrological,Flood,Flash flood,,"Lakhimpur, Golaghat, Jorhat, Barpeta, Bongaigaon, Goalpara, Dhubri, Marigaon, Darrang, Nalbari districts (Assam province)",Monsoonal rain,,Km2,,,,2016,7,28,2016,7,30,50,,,2000000,,150000
+,Natural,Hydrological,Landslide,Avalanche,,Jammu and Kashmir (Administrative unit not available) (Siachen glacier) ,,,,,,,2016,2,3,2016,2,3,10,,,,,
+,Natural,Hydrological,Landslide,Landslide,,Uttarakhand province,Thunderstorms,,,,,,2016,5,22,2016,5,22,10,5,,5,,
+,Natural,Meteorological,Extreme temperature ,Heat wave,,"Andhra Pradesh, Rajasthan, Orissa, Bihar, Jharkhand, Tamil Nadu, Uttar Pradesh provinces",,51,Â°C,,,,2016,4,1,2016,5,20,300,,,,,
+,Natural,Climatological,Wildfire,Forest fire,,"Uttarakhand province (including Almora, Pauri Garhwal, Chamoli districts)",Combination of well above normal tempertaure and lack of rainfall,,Km2,,,,2016,2,1,2016,5,2,7,,,,,
+,Natural,Hydrological,Flood,,,"Biha, Uttar Pradeshr province (Varanasi, Allahabad, Ghazipur, Ballia, Banda, Jalaun, Ghaziabad, Patna, Bhagalpur, Vaishali, Buxar, Bhojpur, Sonepur, Saran, Begusarai, Samastipur, Lakhisarai, Khagaria, Munger, Nalanda, Katihar, Purnea, Katihar, Supual, Kisanganj, Madhepura, Gopalganj, Saharsa, Araria, East Champaran, Muzafferpur, Kishanganj, Purnea, Araria, Supaul, Bhagalpur, Darbhanga)",Monsoonal rains,,Km2,,,,2016,7,15,2016,9,12,254,,1600000,1600000,,350000
+,Natural,Hydrological,Flood,,,"Bhopal, Hoshangabad, Rewa, Sagar, Shajapur, Jabalpur, Satna, Harda, Panna, Vidisha, Raisen, Mandla, Tikamgarh, Seoni, Damoh, Sehore, Agar-Malwa districts (Madhya Pradesh province)",Monsoonal rains,,Km2,,,,2016,7,9,2016,8,22,184,,100000,100000,,160000
+,Natural,Hydrological,Flood,,,"Maharashtra (Nashik, Raigad (Mahad), Thane (Bhiwandi), Ratnagiri, Pune, Satara, Kolhapur), Gujarat (Valsad, Chhota Udepur (Vadodara), Navsari and Surat)",Monsoonal rains,,Km2,,,,2016,8,1,2016,8,3,37,,3000,3000,,
+,Natural,Meteorological,Storm,Tropical cyclone,Cyclone 'Vardah',Chennai district (Tamil Nadu province); Andhra Pradesh,,140,Kph,,,,2016,12,12,2016,12,14,24,,,,200000,1000000
+,Natural,Hydrological,Flood,,,"Andhra Pradesh province, Telangana",Monsoonal rains,137435,Km2,17.654,80.34,,2016,9,21,2016,9,29,28,,3000,3000,44000,589000
+,Natural,Hydrological,Flood,,,"Jorhat, Golaghat (Assam State)",,,Km2,,,,2016,7,17,2016,7,19,34,,,,,
+TC-2017-000058,Natural,Meteorological,Storm,Tropical cyclone,Cyclone Mora,"Manipur, Mizoram",,,Kph,,,,2017,5,30,2017,5,31,,,1970,1970,,
+TC-2017-000172,Natural,Meteorological,Storm,Tropical cyclone,Cyclone 'Ockhi',"Kerala (Thiruvananthapuram, Kozhikode,Ernakulam),Tamil Nadu (Kanyakumari-Munchirai, Thiruvattar,Killiyur, Kurunthancode, Rajakkamangalam-, Tirunelveli, Tuticorin districts), Andhra Pradesh (Chittoor and Nellore), Lakshadweep Islands",,130,Kph,,,,2017,12,2,2017,12,2,884,,60000,60000,,
+,Natural,Meteorological,Storm,Convective storm,,"Vaishali, Saran, Patna, Gaya, Sasaram (Rohta), Araria, Nalanda districts (Bihar)",Monsoon,,Kph,,,,2017,7,8,2017,7,11,23,12,,12,,
+,Natural,Meteorological,Storm,Convective storm,,"Jamui, Champaran, Vaishali, Samastipur, Bihar",,,Kph,,,,2017,5,28,2017,5,28,29,,1250,1250,,
+,Natural,Meteorological,Storm,Convective storm,,Maldah (West Bengal),,,Kph,,,,2017,3,25,2017,3,25,4,20,,60020,,
+,Natural,Hydrological,Flood,Flash flood,,"Mumbai (Dadar, Khar, Bandra, Lalbaug, Kalina, Sion, Byculla, Matunga, Wadala, Parel, Khar-Danda, Pali Hill, Carter Road, Bandra, Ghatkopar, Bhandup, Mulund, and Santacruz), Thane (Maharashtra)",Torrential rains,,Km2,,,,2017,8,29,2017,8,29,14,12,,12,78000,300000
+,Natural,Hydrological,Flood,Flash flood,,Chenai (Tamil Nadu),Heavy rains,50536,Km2,10.489,79.004,,2017,10,30,2017,11,8,21,,4000,4000,,
+FL-2017-000064,Natural,Hydrological,Flood,Riverine flood,,"Lakhimpur, Bangaigaon, Jorhat, Golaghat, Cachar, Dhemjai, Biswanath, Karimganj, Barpeta, Karbi Anglong, Sonitpur, Darrang, Hojai (Sub Division), Bhuragaon (Sub Division), Majuli, Nagaon, Nalbari, Sivasagar, Morigaon, Chirang, Dibrugarh, Dhubri, Kokrajhar, South Salmara, Charaideo, Goalpara districts (Assam)",Monsoon rainfall,,Km2,,,,2017,6,25,2017,7,24,75,,1735000,1735000,,
+,Natural,Hydrological,Landslide,Avalanche,,"Sonamanrg (Ganderbal district), Gurez Valleys (Jammu and Kashmir state)",Heavy snow,,,,,,2017,1,25,2017,1,26,28,,,,,
+,Natural,Hydrological,Landslide,Landslide,,"Laptap Village, Papumpare district (Arunachal Pradesh)",,,,,,,2017,7,11,2017,7,11,22,,,,,
+,Natural,Hydrological,Landslide,Landslide,,"Kotropi, Mandi district (Himachal Pradesh)",,,,,,,2017,8,13,2017,8,13,46,,,100,,
+,Natural,Meteorological,Extreme temperature ,Heat wave,,"Andhra Pradesh, Telangana, Maharashtra, Odisha (Orissa)",,48,Â°C,,,,2017,4,12,2017,6,15,264,,,,,
+,Natural,Hydrological,Flood,,,"Lakhimpur, Karimganj, Darrang districts (Assam), Nagaland, Manipur, Jharkhand",Long-term rainfall,,Km2,,,,2017,6,4,2017,6,6,6,,100000,100000,,
+,Natural,Hydrological,Flood,,,Gujarat,Monsoon rains,,Km2,,,,2017,6,1,2017,6,31,31,,,,,
+FL-2017-000064,Natural,Hydrological,Flood,,,"Imphal West, Imphal East, Thoubal, Bishnupur (Manipur)",,,Km2,,,,2017,7,,2017,7,,,,12831,12831,,
+,Natural,Hydrological,Flood,,,"Banaskantha, Valsad, Navsari, Surat, Sabarkantha, Patan (Gujarat), Barmer, Jalore, Udaipur, Sirohi, Pali (Rajasthan), Kolkata (West Bengal)",Monsoon,,Km2,,,,2017,6,,2017,8,,284,,520000,520000,,250000
+FL-2017-000084/FL-2017-01,Natural,Hydrological,Flood,,,"Araria, Jogbani (Bihar); Uttar Pradesh, West Bengal",Monsoonal rain,,Km2,,,,2017,8,11,2017,8,31,514,,17200000,17200000,,1567000
+,Natural,Hydrological,Flood,,,"Uttar Pradesh (Siddharthnagar, Balarampur, Bahraich, Shravasti, Maharajganj, Barabanki, Lakhimpur Kheri, Gorakhpur, Muzaffarnagar, Gonda, Basti, Mirzapur, Khiri, Deoria, Sitapur, Bijnore, Faizabad, Pilibhit, Farrukhabad, Mau, Kushinagar, Badaun, Ambedkar nagar, Azamgarh, Santkabir Nagar, Ghazipur, Balia)",,,Km2,,,,2017,8,16,2017,8,23,101,,2700000,2700000,,
+FL-2018-000134,Natural,Hydrological,Flood,Flash flood,,"Thrissur, Chengannur (Kerala state); West Bengal, Odisha, Assam, Nagaland, Uttar Pradesh, Himachal Pradesh, Maharashtra states",Monsoonal rains,,Km2,,,,2018,8,7,2018,8,20,504,,23000000,23220000,,2852480
+,Natural,Meteorological,Storm,Convective storm,,"Uttar Pradesh, West Bengal, Assam, Tripura, Manipur, Mizoram",,,Kph,,,,2018,6,8,2018,6,12,61,,,,,50000
+,Natural,Meteorological,Storm,Tropical cyclone,Tropical storm 'Titli'," Mandasa, Godalpur, Gajapati, Ganjam, Rayagada, Puri, Kandhamal (Andhra Pradesh & Odisha)",,126,Kph,,,,2018,10,11,2018,10,12,85,200,300000,300200,,920000
+,Natural,Meteorological,Storm,Convective storm,,"Uttar Pradesh, Kerala, Maharashtra, Mizoram, Rajasthan",,100,Kph,,,,2018,6,1,2018,6,6,42,,,,,
+,Natural,Hydrological,Flood,,,"Punjab, Haryana states",,,Km2,,,,2018,9,23,2018,9,24,25,,,,,
+,Natural,Meteorological,Extreme temperature ,Cold wave,,New Delhi,,4,Â°C,,,,2018,1,1,2018,2,7,44,,,,,
+,Natural,Meteorological,Storm,Convective storm,,"Uttar Pradesh, Rajasthan",,,Kph,,,,2018,4,11,2018,4,11,42,200,,200,,100000
+,Natural,Meteorological,Storm,Convective storm,,Kolkata,,,Kph,,,,2018,4,17,2018,4,17,18,50,22000,22050,,100000
+,Natural,Meteorological,Storm,Convective storm,,"Uttar Pradesh, Bengale occidental, Bihar, Andhra Pradesh",,100,Kph,,,,2018,5,13,2018,5,16,95,,,,,
+,Natural,Meteorological,Storm,Convective storm,,"Uttar Pradesh, West Bengal, Tripura",,,Kph,,,,2018,5,6,2018,5,9,32,,21000,21000,,50000
+,Natural,Meteorological,Storm,Convective storm,,"Uttar Pradesh, Bihar, Jharkhand",,,Kph,,,,2018,5,28,2018,5,28,54,,,,,25000
+,Natural,Meteorological,Storm,Convective storm,,"Rajasthan, Uttar Pradesh",,,Kph,,,,2018,5,1,2018,5,10,143,200,,200,,24000
+,Natural,Hydrological,Flood,Flash flood,,Tripura state,Heavy rains,,Km2,,,,2018,5,17,2018,5,20,15,24,11704,11728,,10000
+TC-2018-000413,Natural,Meteorological,Storm,Tropical cyclone,Cyclone 'Gaja',"Tamil Nadu, Nagapattinam, Tiruvarur, Thanjavur, Pudukottai, Dindigul and Ramnad, Chennai, Sivaganga, Theni, Madurai districts",,120,Kph,,,,2018,11,16,2018,11,16,45,,500000,500000,,775000
+,Natural,Meteorological,Storm,Tropical cyclone,Tropical storm 'Phethai',"Andhra Pradesh, Odisha",,100,Kph,,,,2018,12,17,2018,12,19,8,,10000,10000,,100000
+,Natural,Climatological,Wildfire,Forest fire,,Tamil nadu,,,Km2,,,,2018,3,10,2018,3,10,17,,,,,
+,Natural,Climatological,Drought,Drought,,"Karnataka, Maharashtra states",Por rainfall,,Km2,,,,2018,9,,2019,6,,,,8200000,8200000,,1100000
+,Natural,Hydrological,Flood,,,"Assam, Maharashtra, Gujarat",Monsoonal rain,,Km2,,,,2018,6,22,2018,7,3,52,,,,,
+,Natural,Hydrological,Flood,,, Dakshina Kannada and Udupi districts,Pre-monsoon rains,,Km2,,,,2018,5,29,2018,5,31,12,,4945,4945,,2500
+,Natural,Hydrological,Flood,,,"Uttar Pradesh, Rajasthan",Monsoonal rain,,Km2,,,,2018,7,26,2018,7,28,33,45,1500,1545,,
+,Natural,Hydrological,Flood,,,Odisha state,Heavy rains,,Km2,,,,2018,7,20,2018,7,23,20,,41430,41430,,
+,Natural,Hydrological,Flood,,,"Biswanath, Udalguri, Golaghat, Sivassagar/Charaideo, Barpeta, Lakhimpu, Dhemaji, Darrang (Assam, West Bengal)",,,Km2,,,,2018,8,2,2018,8,6,3,,25000,25000,,
+,Natural,Hydrological,Flood,,,Uttar Pradesh,,,Km2,,,,2018,9,1,2018,10,6,46,,,3050,,
+,Natural,Meteorological,Storm,Convective storm,,"Uttar Pradesh, Maharashtra, and Bihar",,,Kph,,,,2019,6,6,2019,6,14,50,,,,,
+,Natural,Hydrological,Flood,,,"Sitamarhi, Sheohar, East Champaran, Muzaffarpur, Madhubani, Darbhanga, Supaul, Araria, Sahersa , Katihar, Purnia, Kishanganj districts (Bihar); Dhemaji, Lakhimpur, Biswanath, Barpeta, Chirang, Golaghat Jorhat, Sonitpur, Darrang, Nalbari, Bongaigaon, Morigaon, Nagaon, Majuli, Baksa, Kokrajhar, Dhubri, South Salmara, Goalpara, Kamrup, Hojai, Sivsagar, Tinsukia, Cachar, KarbiAnglrng, West Karbi-Anglong, Hailakandi, Dibrugarh districts (Assam); Maharashtra, Kerala, Rajasthan, West Bengal, Karnataka, Uttarakand, Himachal Pradesh, Punjab, Uttar Pradesh, Odisha",Monsoon rain,,Km2,,,,2019,7,14,2019,9,30,1900,,3000000,3000000,200000,10000000
+,Natural,Hydrological,Flood,,,"Mumbai, Pune, Ratnagiri Districts (Maharashtra State)",Monsoon,,Km2,,,,2019,6,28,2019,7,4,52,60,,60,,
+,Natural,Meteorological,Storm,Convective storm,,"Gujarat, Rajasthan, Madhya Pradesh, Maharashtra",,,Kph,,,,2019,4,16,2019,4,17,50,,,,,
+,Natural,Meteorological,Storm,Convective storm,,"Odisha, Hyderabad",,,Kph,,,,2019,6,1,2019,6,3,10,,,,,
+2019-000134,Natural,Meteorological,Storm,Tropical cyclone,Cyclone 'Fani',Odisha province,,,Kph,,,,2019,5,3,2019,5,3,50,,20000000,20000000,,1810000
+,Natural,Meteorological,Extreme temperature ,Heat wave,,"Patna, Gaya, Bhagalpur cities; Aurangabad, Nawada districts (Bihar)",,42,Â°C,,,,2019,6,,2019,6,,90,,,,,
+,Natural,Meteorological,Extreme temperature ,Heat wave,,"Karnataka, Maharashtra, Madhya Pradesh, Rajasthan, Uttar Pradesh states",,,Â°C,,,,2019,6,,2019,6,,22,450,,450,,
+,Natural,Biological,Epidemic,Viral disease,Acute Encephalitis Syndrome (AES),"Muzaffarpur, Vaishali, Sheohar, East Champaran districts (Bihar)",,,Vaccinated,,,,2019,1,1,2019,6,17,121,418,,418,,
+,Natural,Geophysical,Earthquake,Ground movement,,North,,6,Richter,28.7,78.9,07:45,1966,8,15,1966,8,15,15,,,,,
+,Natural,Hydrological,Flood,,,"Belagavi, Gadag, Koppal districts (Karnataka); Kerala, Tamil Nadu states",Monsoon rain,,Km2,,,,2019,10,19,2019,10,23,12,,27500,27500,,
+TC-2019-000147,Natural,Meteorological,Storm,Tropical cyclone,Tropical cyclone 'Bulbul',"South Assam, Meghalaya, Tripura, Mizoram, West Begal, Odisha state",,,Kph,,,,2019,11,9,2019,11,10,12,,130000,130000,,
+,Natural,Biological,Epidemic,Viral disease,Dengue,Rajendranagar area (Bihar),,,Vaccinated,,,,2019,10,,2019,10,,,900,,900,,
+,Natural,Hydrological,Flood,,,"West Bengal, Kerala, Odisha, Maharashtra",Monsoon rain,,Km2,,,,2019,8,12,2019,8,15,32,,17500,17500,,
+,Natural,Hydrological,Flood,,,"Coimbatore, Cuddalore, Nagapattinam, Thoothukkudi Districts (Tamil Nadu); Pudducherry",Heavy rains,,Km2,,,,2019,11,29,2019,12,4,27,,25000,25000,,
+,Natural,Hydrological,Flood,,,"Lakhimpur, Sontipur, Darrang, Goalpara (Assam state); Sikkim state",Heavy rains,,Km2,,,,2020,5,24,2020,5,26,1,2,30000,30002,,
+,Natural,Hydrological,Flood,,,"Assam, Bihar, Gujarat, Chhattisgarh, Kerala, Karnataka, Madhya Pradesh, Odisha, Uttar Pradesh, West Bengal, Arunachal Pradesh, Maharashtraa.",Monsoon rain,,Km2,,,,2020,6,,2020,8,16,1922,,1300000,1300000,800000,7500000
+,Natural,Meteorological,Storm,Tropical cyclone,Cyclone Nivar,Tamil Nadu and Puducherry,,,Kph,,,,2020,11,25,2020,11,26,14,,,,,600000
+,Natural,Meteorological,Storm,Convective storm,,Jammu & Kashmir state,,,Kph,,,,2020,1,11,2020,1,14,11,,,,,
+,Natural,Hydrological,Landslide,Landslide,,"Barak Valley Region (southern Assam State, north-east India); Hailakandi ; Cachar; Karimganj Districts",Heavy ran,,,,,,2020,5,27,2020,6,2,21,,155850,155850,,
+,Natural,Hydrological,Landslide,Landslide,,Idukki district (Kerala state),Heavy rains,,,,,,2020,8,7,2020,8,7,70,,,,,
+TC-2020-00135,Natural,Meteorological,Storm,Tropical cyclone,Cyclone 'Amphan',"Balasore (Baleshwar) , Bhadrak, Kendrapada and Jagatsinghpur (Odisha); East Midunapur, West Midhunapur, North24 Parganas, South24 Parganas, Nadia, Howrah, Kolkata and Hoogli (West Bengal)",,185,Kph,,,,2020,5,20,2020,5,20,90,,18000000,18000000,,13500000
+,Natural,Meteorological,Storm,Tropical cyclone,Cyclone 'Nisarga',"Raigad, Pune Districts (Maharashtra State) ",,120,Kph,,,,2020,6,3,2020,6,3,6,,7500,7500,,820000
+,Natural,Hydrological,Flood,,, Uttar Pradesh State,Heavy rains,,Km2,,,,2020,5,10,2020,5,13,29,,,,,10000
+,Natural,Hydrological,Flood,,,Jammu region ,,,Km2,,,,2020,6,1,2020,6,9,,,5000,5000,,
+,Natural,Hydrological,Flood,,,"Hyderabad, Telangana, Andhra Pradesh, Karnataka, South Odisha states ",Heavy rains,,Km2,,,,2020,10,1,2020,10,26,152,,150000,150000,,4000000
+,Natural,Hydrological,Landslide,Landslide,,Bombay,Monsoon rain,,,,,,2021,7,17,2021,7,18,33,,,,,
+,Natural,Climatological,Glacial lake outburst,,,Chamoli District (Uttarakhand State),,,,,,,2021,4,23,2021,4,23,16,24,,24,,
+,Natural,Hydrological,Flood,,,"Pune, Konkan, Raigada, Satara and Ratnagiri (Maharasthra); Goa, Karnataka, Jharkhand, Bengale, Himachal Pradesh, Uttarakand states",Monsoon rains,,Km2,,,,2021,6,1,2021,9,30,217,52,382650,382702,,
+,Natural,Hydrological,Landslide,Landslide,,"Nigul Sari Village (Kinnaur District, Himachal Pradesh State)",Heavy rains,,,,,,2021,8,11,2021,8,11,35,13,,13,,
+,Natural,Hydrological,Flood,,,"Rajkot, Jamnagar, Porbandar Valsad, and Junagadh districts (Gujarat state)",Heavy rains,,Km2,,,,2021,9,13,2021,9,15,7,,850000,850000,,
+,Natural,Climatological,Glacial lake outburst,,,Uttarakhand state,,,,,,,2021,2,7,2021,2,8,234,,,,,210000
+,Natural,Geophysical,Earthquake,Ground movement,,"Kamrup and Nagaon (Sonitpur District, northern Assam State)",,6,Richter,26.781,92.457,07:51,2021,4,28,2021,4,28,2,10,3000,3010,,
+,Natural,Hydrological,Flood,Flash flood,,"Himachal Pradesh, Union Territories of Jammu and Kashmir and Ladakh",,,Km2,,,,2021,7,28,2021,7,29,37,17,,17,,
+,Natural,Meteorological,Storm,Tropical cyclone,Tropical cyclone 'Tauktae',"Kerala, Karnataka, Goa, Maharashtra, Gujarat",,222,Kph,,,,2021,5,14,2021,5,19,198,153,700000,700153,,1400000
+TC-2021-000058,Natural,Meteorological,Storm,Tropical cyclone,Cyclone 'Yaas',"Bengale occidental, Odisha",,155,Kph,,,,2021,5,27,2021,5,27,19,,1625000,1625000,,3000000
+,Natural,Meteorological,Storm,Tropical cyclone,Cyclone 'Gulab',"Srikakulam, Vizianagaram, Visakhapatnam, Kalingapatnam districts (Andhra Pradesh); Koraput, Malkangiri districts (Odisha); Nizamabad, Hyderabad (Telangana); Aurangabad, Latur, Osmanabad, Parbhani, Nanded, Beed, Jalna, Hingoli districts (Maharashtra)",,90,Kph,,,,2021,9,26,2021,9,29,20,,,,,
+,Natural,Hydrological,Flood,,,"Bihar, Uttar Pradesh, Gujarat, Kerala, Karnataka, Uttarakhand, Maharashtra, Chhattisgarh, West Bengal, and Tripura states",Heavy rains,,Km2,,,,2021,6,1,2021,6,30,59,,1000,1000,,100000
+,Natural,Hydrological,Flood,,,"Bongaigaon, Dhemaji and Dibrugarh districts (Assam state)",Heavy rains,,Km2,,,,2021,7,1,2021,7,1,,,7587,7587,,
